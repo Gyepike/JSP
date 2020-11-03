@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+   Converting string to UpperCase! = <%= new String("hello world").toUpperCase() %>
+   <br/>
+   <br/>
+   5 * 10 =  <%= 5 * 10 %>
+      <br/>
+   is 9 less then 10? <%= 9 < 10 %>
+   <% out.println("Scriptlet ");
+      for (int i = 0 ; i < 10; i++ ) 
+      { 
+    	  
+    	  out.println("Elem szama :" + i);
+      }
+   
+   %>
+</body>
+</html>

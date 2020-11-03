@@ -1,0 +1,9 @@
+192.168.1.70 - - [01/Nov/2020:10:35:46 +0100] "GET / HTTP/1.1" 404 994
+192.168.1.70 - - [01/Nov/2020:10:35:54 +0100] "GET /HNAP1/ HTTP/1.1" 404 1006
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:23:40:14 +0100] "GET /JSPDemo/todo-demo.jsp HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:23:40:14 +0100] "GET /favicon.ico HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:23:40:17 +0100] "GET /JSPDemo/todo-demo.jsp?theItem=3 HTTP/1.1" 200 301
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:23:40:19 +0100] "GET /JSPDemo/todo-demo.jsp?theItem=6 HTTP/1.1" 200 301
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:23:40:29 +0100] "GET /JSPDemo/todo-demo.jsp HTTP/1.1" 200 304
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:23:40:29 +0100] "GET /favicon.ico HTTP/1.1" 404 -
+0:0:0:0:0:0:0:1 - - [01/Nov/2020:23:40:34 +0100] "GET /JSPDemo/todo-demo.jsp?theItem=4A HTTP/1.1" 200 302

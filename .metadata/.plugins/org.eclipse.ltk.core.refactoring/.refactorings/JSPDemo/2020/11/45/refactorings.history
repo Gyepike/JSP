@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;WebContent&apos;&#x0D;&#x0A;- Original project: &apos;JSPDemo&apos;&#x0D;&#x0A;- Destination element: &apos;WebContent&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     my-footer.jsp&#x0D;&#x0A;     my-header.html" description="Copy files" element1="WebContent/my-footer.jsp" element2="WebContent/my-header.html" files="2" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1604439115113" target="/TesLusko_ServletJSP/WebContent" units="0" version="1.0"/>
+</session>
