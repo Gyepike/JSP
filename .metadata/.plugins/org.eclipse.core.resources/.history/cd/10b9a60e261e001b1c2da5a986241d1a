@@ -10,23 +10,21 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-@WebServlet("{/helloworld, /alma}")
+@WebServlet("/helloworld")
 public class HelloWorld extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
-     // ctrl+alt+b need to remove key from eclise { not work
+  
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
-		int i = Integer.parseInt(request.getParameter("num1")) ;
-		int j = Integer.parseInt(request.getParameter("num2")) ;
+		int i = Integer.parseInt(request.getParameter("szam1")) ;
+		int j = Integer.parseInt(request.getParameter("szam2")) ;
 		
 		PrintWriter out =  response.getWriter();
 		
-		out.println(" calculation : " + (i + j) );
-		out.println();
-		response.getWriter().append("Served at: ").append(request.getContextPath());
+		out.print(i + j);
 		
-	
-	} 
+		response.getWriter().append("Served at: ").append(request.getContextPath());
+	}
 
 }
