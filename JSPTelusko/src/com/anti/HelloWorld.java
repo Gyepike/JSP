@@ -3,30 +3,41 @@ package com.anti;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-
 @WebServlet("/helloworld")
 public class HelloWorld extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-       
-     // ctrl+alt+b need to remove key from eclise { not work
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
+	// ctrl+alt+b need to remove key from eclise { not work
+	protected void doGet(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+
+		int i = Integer.parseInt(request.getParameter("num1"));
+		int j = Integer.parseInt(request.getParameter("num2"));
+
+		PrintWriter out = response.getWriter();
+        
+		out.println(" calculation : " + (i + j));
+		out.println("GET Method");
+		int sum = i * j;
 		
-		int i = Integer.parseInt(request.getParameter("num1")) ;
-		int j = Integer.parseInt(request.getParameter("num2")) ;
+		//Forwrad dispatcher diszpecser
+		RequestDispatcher rd = request.getRequestDispatcher("SqrtServlet");
 		
-		PrintWriter out =  response.getWriter();
+		// forward with request
+		request.setAttribute("multiply", sum);
+		rd.forward(request, response);
 		
-		out.println(" calculation : " + (i + j) );
-		out.println();
+		
 		response.getWriter().append("Served at: ").append(request.getContextPath());
-		
-	
-	} 
+
+	}
+
 
 }
