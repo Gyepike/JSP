@@ -124,7 +124,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JSPDemo" path="/JSPDemo" reloadable="true" source="org.eclipse.jst.jee.server:JSPDemo"/><Context docBase="C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\TesLusko_ServletJSP" path="/TesLusko_ServletJSP" reloadable="true" source="org.eclipse.jst.jee.server:TesLusko_ServletJSP"/></Host>
+      <Context docBase="C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\JSPTelusko" path="/JSPTelusko" reloadable="true" source="org.eclipse.jst.jee.server:JSPTelusko"/></Host>
     </Engine>
   </Service>
 </Server>

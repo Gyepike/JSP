@@ -5,3 +5,5 @@ C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp
 \JSPDemo\src
 C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1761069182.index
 \firstwebproject\src\main\resources
+C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2831000701.index
+\JSPTelusko\src

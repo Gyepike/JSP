@@ -75,6 +75,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="TesLusko_ServletJSP"/>
 			<item value="JSPDemo"/>
 		</list>
 		<list key="version">
