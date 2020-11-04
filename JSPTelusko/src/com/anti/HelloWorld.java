@@ -23,15 +23,16 @@ public class HelloWorld extends HttpServlet {
 
 		PrintWriter out = response.getWriter();
         
-		out.println(" calculation : " + (i + j));
+		out.println("Calculation : " + (i + j));
 		out.println("GET Method");
-		int sum = i * j;
+		int sum = i + j;
 		
 		//Forwrad dispatcher diszpecser
 		RequestDispatcher rd = request.getRequestDispatcher("SqrtServlet");
 		
 		// forward with request
-		request.setAttribute("multiply", sum);
+		request.setAttribute("summa", sum);
+		
 		rd.forward(request, response);
 		
 		

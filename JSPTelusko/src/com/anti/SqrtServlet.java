@@ -20,10 +20,12 @@ public class SqrtServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		PrintWriter out = response.getWriter();
-		out.println("Hello SqrtServer");
-		out.println("Multiply");
-		out.println(request.getAttribute("multiply"));
+		out.println("Hello SqrtServer / Negyzet Server");
 		out.println();
+		out.println("A parameter "+ request.getAttribute("summa"));
+		int sqrt = (int) request.getAttribute("summa");
+		
+		out.println("A vegeredmeny negyzete : " + (sqrt * sqrt ) );
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}
 
