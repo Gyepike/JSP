@@ -32,11 +32,14 @@ public class HelloWorldSendRedirectwithCookieandSession extends HttpServlet {
 		
 		// forward with respond!! Only with GET method
 		//Cookies + Session another 2 way 
+	
+		//Create Session 
 		HttpSession session = request.getSession();
-		session.setAttribute("sum", sum);
+		session.setAttribute("s", sum);
+				
 		
+		//cookie 
 		Cookie cookie = new Cookie("k", "Alma");
-		
 		response.addCookie(cookie); // work only for respone
 		
         response.sendRedirect("SqrtServlet3");   // URL rewitering transfer no form need + no cokkies session tracking

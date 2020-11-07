@@ -32,12 +32,10 @@ public class HelloWorldReURLWrite extends HttpServlet {
 		
 		   
     	//Create Session + Cookie 
+		//Create Session + Cookie 
 		HttpSession session = request.getSession();
-		session.setAttribute("s", "SendRedirect Session keresztul GET adat!!");
-		
-		// Cookie adat
-		Cookie cookie = new Cookie("k", "Alma");
-		response.addCookie(cookie); // work only for respone
+		session.setAttribute("s", sum);
+				
 		
 		
 		// forward with respond!! Only with GET method

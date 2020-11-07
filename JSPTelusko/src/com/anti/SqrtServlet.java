@@ -26,9 +26,12 @@ public class SqrtServlet extends HttpServlet {
 		out.println("A parameter "+ request.getAttribute("summa"));
 		int sqrt = (int) request.getAttribute("summa");
 		
+		//Sesssional 
 		HttpSession session = request.getSession();
-		String outsession = (String) session.getAttribute("s");
-		out.println(outsession);
+		int outsession = (int) session.getAttribute("s");
+		out.println("A session altal  kuldott" + outsession);
+		out.println("Az eredmey "+  (outsession * outsession));
+		
 		out.println("A vegeredmeny negyzete : " + (sqrt * sqrt ) );
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}
@@ -44,6 +47,14 @@ public class SqrtServlet extends HttpServlet {
 		out.println("A parameter "+ request.getAttribute("summa"));
 		int sqrt = (int) request.getAttribute("summa");
 		
+		//Sessional 
+
+		HttpSession session = request.getSession();
+		int outsession = (int) session.getAttribute("s");
+		out.println("A session altal kuldott" + outsession);
+		out.println("Az eredmey "+  (outsession * outsession));
+		
+
 		out.println("A vegeredmeny negyzete : " + (sqrt * sqrt ) );
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}

@@ -42,9 +42,7 @@ public class HelloWorldDispatcher extends HttpServlet {
 	
 		//Create Session 
 		HttpSession session = request.getSession();
-		session.setAttribute("s", "Session keresztul POST adat!!");
-		
-	
+		session.setAttribute("s", sum);
 		
 	
 		rd.forward(request, response);
@@ -78,7 +76,7 @@ public class HelloWorldDispatcher extends HttpServlet {
 		
 		//Create Session + Cookie 
 		HttpSession session = request.getSession();
-		session.setAttribute("s", "Session keresztul GET adat!!");
+		session.setAttribute("s", sum);
 		
 		rd.forward(request, response);
 		

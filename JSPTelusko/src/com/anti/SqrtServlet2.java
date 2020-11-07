@@ -30,21 +30,10 @@ public class SqrtServlet2 extends HttpServlet {
 		
 		//Test Session 
 		HttpSession session = request.getSession();
-		String outsession = (String) session.getAttribute("s");
+		int outsession = (int) session.getAttribute("s");
+		out.println("A session altal kuldott " + outsession);
+		out.println("Az eredmey "+  (outsession * outsession));
 		
-		out.println(" ");
-		out.println("Session variable:" + outsession);
-		
-		
-		//Test Cookie 
-		
-		Cookie cokies [] =  request.getCookies();
-		
-	    for ( Cookie c : cokies) {
-			 
-	    	 out.print(c.getValue());
-	    	 out.print(c.getName());
-		}
 		
 		response.getWriter().append( sqrt +" Served at: ").append(request.getContextPath());
 		

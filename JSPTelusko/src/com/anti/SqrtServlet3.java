@@ -31,11 +31,13 @@ public class SqrtServlet3 extends HttpServlet {
 	
 		
 		//Test Session 
-		String outsession = (String) session.getAttribute("s");
-		out.println(outsession);
+		int outsession = (int) session.getAttribute("s");
+		out.println("A session altal kuldott " + outsession);
+		out.println("Az eredmey "+  (outsession * outsession));
+		
 		
 		//Test Cookie 
-		out.println("Cookie");
+		out.println("Cookie Nem mukodik bower ");
 		Cookie cokies [] =  request.getCookies();
 		
 	    for ( Cookie c : cokies) {
