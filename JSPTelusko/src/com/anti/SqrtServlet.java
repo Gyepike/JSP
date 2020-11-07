@@ -16,12 +16,12 @@ import javax.servlet.http.HttpServletResponse;
 public class SqrtServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
    
- 
+	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
 		PrintWriter out = response.getWriter();
-		out.println("Hello SqrtServer / Negyzet Server");
-		out.println();
+		out.println("Hello SqrtServer / Negyzet Server forwarddispatcher  GET/ POST TUDJA!!");
+		out.println("Dispather URL Forward  GET Method Dispatcher");
 		out.println("A parameter "+ request.getAttribute("summa"));
 		int sqrt = (int) request.getAttribute("summa");
 		
@@ -29,5 +29,19 @@ public class SqrtServlet extends HttpServlet {
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}
 
-
+	
+	@Override
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
+		PrintWriter out = response.getWriter();
+		out.println("Hello SqrtServer / Negyzet Server forwarddispatcher  GET/ POST TUDJA!!");
+		out.println("Post Session URL Forward");
+		
+		out.println("A parameter "+ request.getAttribute("summa"));
+		int sqrt = (int) request.getAttribute("summa");
+		
+		out.println("A vegeredmeny negyzete : " + (sqrt * sqrt ) );
+		response.getWriter().append("Served at: ").append(request.getContextPath());
+	}
+	
 }

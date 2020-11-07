@@ -710,3 +710,349 @@ nov. 04, 2020 23:23:53.88 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 nov. 04, 2020 23:24:03.57 
 nov. 04, 2020 23:24:03.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 nov. 04, 2020 23:24:03.57 
+nov. 05, 2020 24:10:17.85 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 24:11:46.19 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 08:16:00.50 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 08:17:10.71 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 08:23:52.19 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 08:24:21.39 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abc16ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:24:21.41 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abc16ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:24:21.41 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abc16ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:24:21.43 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abc16ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:24:21.45 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abc16ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:24:21.45 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abc16ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:24:21.47 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abc16ec00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:24:21.64 
+nov. 05, 2020 08:24:21.64 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 05, 2020 08:24:21.64 
+nov. 05, 2020 08:33:01.25 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.27 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.28 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.29 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.31 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.32 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.33 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.35 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.36 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.37 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.39 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.40 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.41 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.43 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:33:01.44 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac1747400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:36:30.96 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac0ec4c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:36:30.96 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac0ec4c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.45 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.46 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.48 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.48 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.50 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.50 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.51 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.52 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.54 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.56 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:45:00.58 [Child 20184, MediaDecoderStateMachine #2] WARNING: Decoder=19ac3758400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 08:47:56.83 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 09:22:59.72 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac634bc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:22:59.73 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac634bc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:22:59.74 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac634bc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:22:59.76 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19ac634bc00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:23:21.10 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abf4b9000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:23:21.10 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abf4b9000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:23:21.12 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abf4b9000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:23:21.14 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abf4b9000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:23:21.14 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abf4b9000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:23:21.16 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abf4b9000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:23:21.18 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abf4b9000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 09:23:21.18 [Child 20184, MediaDecoderStateMachine #1] WARNING: Decoder=19abf4b9000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+nov. 05, 2020 21:03:22.42 
+nov. 05, 2020 21:03:22.42 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 05, 2020 21:03:22.42 
+nov. 05, 2020 21:03:22.49 
+nov. 05, 2020 21:03:22.49 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 21:03:22.49 
+nov. 05, 2020 21:38:45.33 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 21:38:50.81 
+nov. 05, 2020 21:38:50.81 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 05, 2020 21:38:50.81 
+nov. 05, 2020 21:38:50.85 
+nov. 05, 2020 21:38:50.85 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 21:38:50.85 
+nov. 05, 2020 21:40:49.83 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 21:40:59.18 
+nov. 05, 2020 21:40:59.18 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 05, 2020 21:40:59.18 
+nov. 05, 2020 21:40:59.22 
+nov. 05, 2020 21:40:59.22 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 21:40:59.22 
+nov. 05, 2020 21:44:41.80 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 21:44:50.07 
+nov. 05, 2020 21:44:50.07 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 21:44:50.07 
+nov. 05, 2020 21:45:05.74 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 21:45:19.57 
+nov. 05, 2020 21:45:19.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 05, 2020 21:45:19.57 
+nov. 05, 2020 21:45:19.61 
+nov. 05, 2020 21:45:19.61 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 21:45:19.61 
+nov. 05, 2020 22:29:28.28 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 22:29:38.70 
+nov. 05, 2020 22:29:38.70 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 05, 2020 22:29:38.70 
+nov. 05, 2020 22:29:38.74 
+nov. 05, 2020 22:29:38.74 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 22:29:38.74 
+nov. 05, 2020 22:29:55.36 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 22:30:06.16 
+nov. 05, 2020 22:30:06.16 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 05, 2020 22:30:06.16 
+nov. 05, 2020 22:30:06.20 
+nov. 05, 2020 22:30:06.20 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 22:30:06.20 
+nov. 05, 2020 22:33:37.15 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 22:33:50.98 [Parent 26920, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+nov. 05, 2020 22:33:51.15 
+nov. 05, 2020 22:33:51.15 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 22:33:51.15 
+nov. 05, 2020 22:35:18.56 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 22:36:41.84 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 05, 2020 22:44:44.62 
+nov. 05, 2020 22:44:44.62 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 05, 2020 22:44:44.62 
+nov. 05, 2020 22:44:44.68 
+nov. 05, 2020 22:44:44.68 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 05, 2020 22:44:44.68 
+nov. 06, 2020 24:39:01.64 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 24:39:14.92 
+nov. 06, 2020 24:39:14.92 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 24:39:14.92 
+nov. 06, 2020 24:42:35.51 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 24:48:02.10 
+nov. 06, 2020 24:48:02.10 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 24:48:02.10 
+nov. 06, 2020 24:48:02.14 
+nov. 06, 2020 24:48:02.14 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 24:48:02.14 
+nov. 06, 2020 22:30:27.36 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:30:36.22 
+nov. 06, 2020 22:30:36.22 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 22:30:36.22 
+nov. 06, 2020 22:30:36.26 
+nov. 06, 2020 22:30:36.26 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:30:36.26 
+nov. 06, 2020 22:32:58.69 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:33:07.27 
+nov. 06, 2020 22:33:07.27 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 22:33:07.27 
+nov. 06, 2020 22:33:07.32 
+nov. 06, 2020 22:33:07.32 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:33:07.32 
+nov. 06, 2020 22:37:00.73 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:37:07.99 
+nov. 06, 2020 22:37:07.99 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 22:37:07.99 
+nov. 06, 2020 22:37:08.04 
+nov. 06, 2020 22:37:08.04 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:37:08.04 
+nov. 06, 2020 22:37:17.63 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:37:26.40 
+nov. 06, 2020 22:37:26.40 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 22:37:26.40 
+nov. 06, 2020 22:37:26.45 
+nov. 06, 2020 22:37:26.45 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:37:26.45 
+nov. 06, 2020 22:39:47.24 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:39:53.84 
+nov. 06, 2020 22:39:53.84 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:39:53.84 
+nov. 06, 2020 22:41:00.33 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:41:04.19 
+nov. 06, 2020 22:41:04.19 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:41:04.19 
+nov. 06, 2020 22:41:15.99 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:41:22.06 
+nov. 06, 2020 22:41:22.06 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 22:41:22.07 
+nov. 06, 2020 22:41:22.11 
+nov. 06, 2020 22:41:22.11 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:41:22.11 
+nov. 06, 2020 22:41:57.94 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:42:01.76 
+nov. 06, 2020 22:42:01.76 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 22:42:01.76 
+nov. 06, 2020 22:42:01.79 
+nov. 06, 2020 22:42:01.79 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:42:01.79 
+nov. 06, 2020 22:47:14.85 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:48:58.92 
+nov. 06, 2020 22:48:58.92 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:48:58.92 
+nov. 06, 2020 22:51:55.77 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 22:52:02.60 
+nov. 06, 2020 22:52:02.60 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 22:52:02.60 
+nov. 06, 2020 22:52:02.64 
+nov. 06, 2020 22:52:02.64 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 22:52:02.64 
+nov. 06, 2020 22:52:32.46 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 23:45:13.08 
+nov. 06, 2020 23:45:13.08 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 23:45:13.08 
+nov. 06, 2020 23:45:13.12 
+nov. 06, 2020 23:45:13.12 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 23:45:13.12 
+nov. 06, 2020 23:45:45.63 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 23:46:04.29 
+nov. 06, 2020 23:46:04.29 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 23:46:04.29 
+nov. 06, 2020 23:46:04.35 
+nov. 06, 2020 23:46:04.35 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 23:46:04.35 
+nov. 06, 2020 23:46:53.12 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 23:47:09.94 
+nov. 06, 2020 23:47:09.94 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 23:47:09.94 
+nov. 06, 2020 23:48:15.07 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 23:48:27.03 
+nov. 06, 2020 23:48:27.03 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 23:48:27.03 
+nov. 06, 2020 23:48:27.09 
+nov. 06, 2020 23:48:27.09 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 23:48:27.09 
+nov. 06, 2020 23:52:22.65 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 23:52:32.36 
+nov. 06, 2020 23:52:32.36 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 23:52:32.36 
+nov. 06, 2020 23:52:32.39 
+nov. 06, 2020 23:52:32.39 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 23:52:32.39 
+nov. 06, 2020 23:53:02.61 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 23:54:24.04 
+nov. 06, 2020 23:54:24.04 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 06, 2020 23:54:24.04 
+nov. 06, 2020 23:54:24.08 
+nov. 06, 2020 23:54:24.08 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 23:54:24.08 
+nov. 06, 2020 23:55:06.96 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 06, 2020 23:56:58.20 
+nov. 06, 2020 23:56:58.20 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 06, 2020 23:56:58.20 
+nov. 07, 2020 24:11:51.36 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:12:03.59 
+nov. 07, 2020 24:12:03.59 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:12:03.59 
+nov. 07, 2020 24:12:03.63 
+nov. 07, 2020 24:12:03.63 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:12:03.63 
+nov. 07, 2020 24:12:55.76 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:13:04.71 
+nov. 07, 2020 24:13:04.71 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:13:04.71 
+nov. 07, 2020 24:13:22.86 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:13:27.44 
+nov. 07, 2020 24:13:27.44 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:13:27.44 
+nov. 07, 2020 24:13:41.56 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:13:57.70 
+nov. 07, 2020 24:13:57.70 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:13:57.70 
+nov. 07, 2020 24:13:57.74 
+nov. 07, 2020 24:13:57.74 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:13:57.74 
+nov. 07, 2020 24:15:10.80 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:15:19.74 
+nov. 07, 2020 24:15:19.74 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:15:19.74 
+nov. 07, 2020 24:15:19.78 
+nov. 07, 2020 24:15:19.78 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:15:19.78 
+nov. 07, 2020 24:17:51.36 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:17:58.01 
+nov. 07, 2020 24:17:58.01 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:17:58.02 
+nov. 07, 2020 24:18:13.65 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:18:18.64 
+nov. 07, 2020 24:18:18.65 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:18:18.65 
+nov. 07, 2020 24:19:33.68 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:19:39.20 
+nov. 07, 2020 24:19:39.20 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:19:39.20 
+nov. 07, 2020 24:19:39.24 
+nov. 07, 2020 24:19:39.24 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:19:39.24 
+nov. 07, 2020 24:20:42.13 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:20:50.62 
+nov. 07, 2020 24:20:50.62 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:20:50.62 
+nov. 07, 2020 24:20:50.66 
+nov. 07, 2020 24:20:50.66 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:20:50.67 
+nov. 07, 2020 24:27:47.65 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:27:55.46 
+nov. 07, 2020 24:27:55.46 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:27:55.46 
+nov. 07, 2020 24:27:55.50 
+nov. 07, 2020 24:27:55.50 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:27:55.50 
+nov. 07, 2020 24:28:23.86 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:28:33.76 
+nov. 07, 2020 24:28:33.76 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:28:33.76 
+nov. 07, 2020 24:28:47.04 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:28:53.85 
+nov. 07, 2020 24:28:53.85 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:28:53.85 
+nov. 07, 2020 24:29:09.15 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:29:14.09 
+nov. 07, 2020 24:29:14.09 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:29:14.09 
+nov. 07, 2020 24:29:14.13 
+nov. 07, 2020 24:29:14.13 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:29:14.13 
+nov. 07, 2020 24:30:50.77 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:30:57.53 
+nov. 07, 2020 24:30:57.53 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:30:57.53 
+nov. 07, 2020 24:30:57.57 
+nov. 07, 2020 24:30:57.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:30:57.57 
+nov. 07, 2020 24:48:08.25 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:48:14.48 
+nov. 07, 2020 24:48:14.48 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:48:14.48 
+nov. 07, 2020 24:48:14.52 
+nov. 07, 2020 24:48:14.52 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:48:14.52 
+nov. 07, 2020 24:49:13.83 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:49:24.76 
+nov. 07, 2020 24:49:24.76 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:49:24.76 
+nov. 07, 2020 24:49:24.80 
+nov. 07, 2020 24:49:24.80 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:49:24.80 
+nov. 07, 2020 24:50:38.90 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 24:50:48.35 
+nov. 07, 2020 24:50:48.35 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 24:50:48.35 
+nov. 07, 2020 24:50:48.40 
+nov. 07, 2020 24:50:48.40 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 24:50:48.40 
+nov. 07, 2020 01:53:45.90 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 01:53:51.57 [Parent 3328, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+nov. 07, 2020 01:53:51.69 
+nov. 07, 2020 01:53:51.69 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 07, 2020 01:53:51.69 
+nov. 07, 2020 01:53:51.73 
+nov. 07, 2020 01:53:51.73 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 01:53:51.73 
+nov. 07, 2020 01:54:50.10 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 01:55:00.13 
+nov. 07, 2020 01:55:00.13 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 01:55:00.13 
+nov. 07, 2020 02:05:28.81 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 07, 2020 02:05:36.52 
+nov. 07, 2020 02:05:36.52 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 07, 2020 02:05:36.52 

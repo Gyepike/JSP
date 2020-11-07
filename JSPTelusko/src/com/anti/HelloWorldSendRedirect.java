@@ -9,13 +9,14 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
-@WebServlet("/helloworld")
-public class HelloWorld extends HttpServlet {
+@WebServlet("/helloworld3")
+public class HelloWorldSendRedirect extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	// ctrl+alt+b need to remove key from eclise { not work
-	protected void doGet(HttpServletRequest request, HttpServletResponse response)
+	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 
 		int i = Integer.parseInt(request.getParameter("num1"));
@@ -24,21 +25,23 @@ public class HelloWorld extends HttpServlet {
 		PrintWriter out = response.getWriter();
         
 		out.println("Calculation : " + (i + j));
-		out.println("GET Method");
+		out.println("GET Method Only Sendredirect!!!! Out web site !response! vissza clintre + onan get");
 		int sum = i + j;
+	
 		
-		//Forwrad dispatcher diszpecser
-		RequestDispatcher rd = request.getRequestDispatcher("SqrtServlet");
+		// forward with respond!! Only with GET method
+		HttpSession session = request.getSession();
 		
-		// forward with request
-		request.setAttribute("summa", sum);
+		session.setAttribute("sum", sum);
 		
-		rd.forward(request, response);
+        response.sendRedirect("SqrtServlet3");   // URL rewitering transfer no form need + no cokkies session tracking
+		//Cookies + Session another 2 way 
 		
-		
-		response.getWriter().append("Served at: ").append(request.getContextPath());
+		response.getWriter().append("Send Redirect Served at: ").append(request.getContextPath());
 
 	}
-
+  
+	
+	
 
 }
