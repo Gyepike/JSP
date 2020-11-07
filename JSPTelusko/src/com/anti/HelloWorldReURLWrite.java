@@ -6,6 +6,7 @@ import java.io.PrintWriter;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -29,11 +30,20 @@ public class HelloWorldReURLWrite extends HttpServlet {
 		int sum = i + j;
 	
 		
+		   
+    	//Create Session + Cookie 
+		HttpSession session = request.getSession();
+		session.setAttribute("s", "SendRedirect Session keresztul GET adat!!");
+		
+		// Cookie adat
+		Cookie cookie = new Cookie("k", "Alma");
+		response.addCookie(cookie); // work only for respone
+		
+		
 		// forward with respond!! Only with GET method
+        response.sendRedirect("SqrtServlet2?summa="+sum);   // URL rewitering transfer to the client back 
 		
-		
-        response.sendRedirect("SqrtServlet2?summa="+sum);   // URL rewitering transfer no form need + no cokkies session tracking
-		//Cookies + Session another 2 way 
+     
 		
 		response.getWriter().append("Send Redirect Served at: ").append(request.getContextPath());
 

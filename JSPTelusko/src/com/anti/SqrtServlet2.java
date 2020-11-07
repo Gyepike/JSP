@@ -5,9 +5,11 @@ import java.io.PrintWriter;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
 /**
  * Servlet implementation class SqrtServlet2
@@ -25,6 +27,25 @@ public class SqrtServlet2 extends HttpServlet {
 	    out.println("URL Rewriter Work Only For GET!!!!");
 		int sqrt = Integer.parseInt(request.getParameter("summa"));
 		sqrt  = sqrt * sqrt; 
+		
+		//Test Session 
+		HttpSession session = request.getSession();
+		String outsession = (String) session.getAttribute("s");
+		
+		out.println(" ");
+		out.println("Session variable:" + outsession);
+		
+		
+		//Test Cookie 
+		
+		Cookie cokies [] =  request.getCookies();
+		
+	    for ( Cookie c : cokies) {
+			 
+	    	 out.print(c.getValue());
+	    	 out.print(c.getName());
+		}
+		
 		response.getWriter().append( sqrt +" Served at: ").append(request.getContextPath());
 		
 	}

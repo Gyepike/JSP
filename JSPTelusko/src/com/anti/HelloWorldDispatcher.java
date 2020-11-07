@@ -6,9 +6,11 @@ import java.io.PrintWriter;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
 @WebServlet("/helloworld")
 public class HelloWorldDispatcher extends HttpServlet {
@@ -38,7 +40,13 @@ public class HelloWorldDispatcher extends HttpServlet {
 		// forward with request
 		request.setAttribute("summa", sum);
 	
+		//Create Session 
+		HttpSession session = request.getSession();
+		session.setAttribute("s", "Session keresztul POST adat!!");
 		
+	
+		
+	
 		rd.forward(request, response);
 		
 		
@@ -68,7 +76,12 @@ public class HelloWorldDispatcher extends HttpServlet {
 		// forward with request
 		request.setAttribute("summa", sum);
 		
+		//Create Session + Cookie 
+		HttpSession session = request.getSession();
+		session.setAttribute("s", "Session keresztul GET adat!!");
+		
 		rd.forward(request, response);
+		
 		
 		
 		response.getWriter().append("Dispatcher Served at: ").append(request.getContextPath());

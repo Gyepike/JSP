@@ -5,6 +5,7 @@ import java.io.PrintWriter;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -28,6 +29,20 @@ public class SqrtServlet3 extends HttpServlet {
 	    
 		int sqrt = (int) session.getAttribute("sum");
 	
+		
+		//Test Session 
+		String outsession = (String) session.getAttribute("s");
+		out.println(outsession);
+		
+		//Test Cookie 
+		out.println("Cookie");
+		Cookie cokies [] =  request.getCookies();
+		
+	    for ( Cookie c : cokies) {
+			 
+	    	 out.print(c.getValue());
+	    	 out.print(c.getName());
+		}
 		
 		sqrt  = sqrt * sqrt; 
 		response.getWriter().append( sqrt +" Served at: ").append(request.getContextPath());

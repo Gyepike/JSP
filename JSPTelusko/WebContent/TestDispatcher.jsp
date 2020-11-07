@@ -9,7 +9,7 @@
 <body>
    <% out.println("<h3>!Dispatcher!<h/3>");  %>
    <br/>
-   <form action="helloworld" method="POST">
+   <form action="helloworld" method="GET">
       Enter first : <input type="text" name="num1"> <br/> <br/>
       Enter second : <input type="text" name="num2"> <br/> <br/>
       <input type="submit">

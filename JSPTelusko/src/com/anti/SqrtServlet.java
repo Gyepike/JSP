@@ -8,6 +8,7 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
 
 /**
  * Servlet implementation class SqrtServlet
@@ -21,10 +22,13 @@ public class SqrtServlet extends HttpServlet {
 		
 		PrintWriter out = response.getWriter();
 		out.println("Hello SqrtServer / Negyzet Server forwarddispatcher  GET/ POST TUDJA!!");
-		out.println("Dispather URL Forward  GET Method Dispatcher");
+		out.println("Dispather URLForward  GET Method Dispatcher");
 		out.println("A parameter "+ request.getAttribute("summa"));
 		int sqrt = (int) request.getAttribute("summa");
 		
+		HttpSession session = request.getSession();
+		String outsession = (String) session.getAttribute("s");
+		out.println(outsession);
 		out.println("A vegeredmeny negyzete : " + (sqrt * sqrt ) );
 		response.getWriter().append("Served at: ").append(request.getContextPath());
 	}
@@ -35,7 +39,7 @@ public class SqrtServlet extends HttpServlet {
 		
 		PrintWriter out = response.getWriter();
 		out.println("Hello SqrtServer / Negyzet Server forwarddispatcher  GET/ POST TUDJA!!");
-		out.println("Post Session URL Forward");
+		out.println("Dispather URLForward  Post Method Dispatcher");
 		
 		out.println("A parameter "+ request.getAttribute("summa"));
 		int sqrt = (int) request.getAttribute("summa");
