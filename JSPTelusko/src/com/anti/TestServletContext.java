@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(
 		
 		name = "servletParamAnnotation", 
-		urlPatterns =  {"/ServletContext"},
+		urlPatterns =  {"/ServletContext", "/Kuki"},
 		
 		initParams =
 	        {
