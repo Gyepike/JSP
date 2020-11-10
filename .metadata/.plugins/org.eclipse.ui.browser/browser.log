@@ -1487,3 +1487,43 @@ nov. 10, 2020 22:14:30.76
 nov. 10, 2020 22:14:30.79 
 nov. 10, 2020 22:14:30.79 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 nov. 10, 2020 22:14:30.79 
+nov. 10, 2020 23:05:50.95 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 10, 2020 23:05:58.36 
+nov. 10, 2020 23:05:58.36 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 10, 2020 23:05:58.36 
+nov. 10, 2020 23:05:58.41 
+nov. 10, 2020 23:05:58.41 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 10, 2020 23:05:58.41 
+nov. 10, 2020 23:06:33.55 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 10, 2020 23:06:39.57 
+nov. 10, 2020 23:06:39.57 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 10, 2020 23:06:39.57 
+nov. 10, 2020 23:13:40.28 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 10, 2020 23:13:55.08 
+nov. 10, 2020 23:13:55.08 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 10, 2020 23:13:55.08 
+nov. 10, 2020 23:14:34.02 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 10, 2020 23:14:43.02 
+nov. 10, 2020 23:14:43.02 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 10, 2020 23:14:43.02 
+nov. 10, 2020 23:14:43.06 
+nov. 10, 2020 23:14:43.06 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 10, 2020 23:14:43.06 
+nov. 10, 2020 23:16:58.41 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 10, 2020 23:17:05.77 
+nov. 10, 2020 23:17:05.77 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 10, 2020 23:17:05.77 
+nov. 10, 2020 23:17:05.81 
+nov. 10, 2020 23:17:05.81 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 10, 2020 23:17:05.81 
+nov. 10, 2020 23:17:30.97 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 10, 2020 23:17:37.03 
+nov. 10, 2020 23:17:37.03 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 10, 2020 23:17:37.03 
+nov. 10, 2020 23:20:47.99 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 10, 2020 23:44:28.09 
+nov. 10, 2020 23:44:28.09 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 10, 2020 23:44:28.09 
+nov. 10, 2020 23:44:28.14 
+nov. 10, 2020 23:44:28.14 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 10, 2020 23:44:28.14 
