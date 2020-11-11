@@ -13,14 +13,19 @@ import java.sql.*;
 
 public class TestConnection {
 
-	public static void main(String[] args) throws ClassNotFoundException, SQLException {
+	public static void main(String[] args)  {
 		
-		 String url = "jdbc:mysql://localhost:3306//Alien";
-		 String uname = "hbstudent";
-		 String pass = "hbstudent";
-		 
-		 Class.forName("com.mysql.jdbc.Driver"); // class formname telusko
-         Connection con = DriverManager.getConnection(url,uname,pass);
+		try {
+			 String url = "jdbc:mysql://localhost:3306/Alien?serverTimezone=UTC&useSSL=false";
+			 String uname = "hbstudent";
+			 String pass = "hbstudent";
+			 Class.forName("com.mysql.jdbc.Driver"); // class formname telusko
+	         Connection con = DriverManager.getConnection(url,uname,pass);
+			
+		} catch (Exception e) {
+			System.out.println(e);
+		}
+	
 	}
 
 }
