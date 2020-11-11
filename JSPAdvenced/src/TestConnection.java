@@ -42,11 +42,13 @@ public class TestConnection {
 			 String query3 = "INSERT INTO Alien.aliens VALUES ("+ aid + ", '"+name+"', '"+skill +"')";  // normal way 			 
 			 String query4 = "INSERT INTO Alien.aliens VALUES  (?, ?, ?) ";  // prepered statment 
 			 
-			 Class.forName("com.mysql.jdbc.Driver"); // class formname telusko
+			// Class.forName("com.mysql.jdbc.Driver"); 
+			// class formname telusko creeate class without instance only static runnig meghivja Drivermanger.regisztered static metod
+			// Any JDBC 4.0 drivers that are found in your class path are automatically loaded.
 	         Connection con = DriverManager.getConnection(url,uname,pass);
 			 Statement stat = con.createStatement(); // preperedStament
 	
-			 ResultSet res =  stat.executeQuery(query2);  
+			 ResultSet res =  stat.executeQuery(query2);  // Query all 
 			 
 			 while(res.next()) {
 				 
@@ -57,7 +59,7 @@ public class TestConnection {
 				 System.out.println("id. " + id +  "  Alien neve: " + aname+ " " + "A technologia " + tech );
 			 }
 			 
-			 res =  stat.executeQuery(query);
+			 res =  stat.executeQuery(query); // query one
 			 res.next();
 			 System.out.println(res.getString(2));
 			 
