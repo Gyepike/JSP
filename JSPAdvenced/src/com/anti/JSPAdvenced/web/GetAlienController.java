@@ -32,7 +32,7 @@ public class GetAlienController extends HttpServlet {
 	    AlienDao dao = new AlienDao();
 	    
 	    Alien a1 = dao.getAlien(aid);
-	    
+	   
 	    req.setAttribute("alien", a1);
 	    
 	    RequestDispatcher rd = req.getRequestDispatcher("showAlien.jsp");

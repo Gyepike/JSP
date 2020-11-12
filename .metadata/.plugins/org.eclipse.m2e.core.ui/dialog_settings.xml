@@ -71,11 +71,13 @@
 	<section name="wizardPage">
 		<list key="groupId">
 			<item value="com.anti"/>
+			<item value="JSPAdvenced"/>
 			<item value="JSPTelusko"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="JSPAdvenced"/>
 			<item value="JSPTelusko"/>
 			<item value="TesLusko_ServletJSP"/>
 			<item value="JSPDemo"/>
