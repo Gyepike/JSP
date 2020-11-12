@@ -4,7 +4,7 @@
 <html>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  <head>
-        <title>Szulets </title>
+        <title>Alien</title>
         <style type="text/css">
             label{ margin-right:20px;}
             input{ margin-top:5px;}
@@ -19,8 +19,7 @@
                 <input type="submit" value="submit">
             </fieldset>
         </form>
-       
-        
-     Time on the server <%= new java.util.Date() %>	
+      
+         <jsp:include page="my-footer.jsp"></jsp:include>
     </body>
 </html>
