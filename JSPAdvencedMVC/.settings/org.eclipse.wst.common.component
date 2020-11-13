@@ -3,7 +3,7 @@
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="JSPAdvenced"/>
         <property name="java-output-path" value="/JSPAdvenced/build/classes"/>
+        <property name="context-root" value="JSPAdvencedMVC"/>
     </wb-module>
 </project-modules>
