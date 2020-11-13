@@ -12,14 +12,8 @@
     </head>
     <body>
     
-      <form action="w" method="get">
-            <fieldset>
-                <legend>FelHasznalo Eletkora</legend>
-                <input type="text" name="Ev" /> <br/>
-                <input type="submit" value="submit">
-            </fieldset>
-        </form>
-       
+    
+ 
         
      Time on the server <%= new java.util.Date() %>	
     </body>

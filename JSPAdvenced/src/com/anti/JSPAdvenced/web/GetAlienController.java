@@ -24,8 +24,15 @@ public class GetAlienController extends HttpServlet {
 	    PrintWriter out = resp.getWriter();
 	    
 	    out.println(req.getParameter("aid"));
+	    
+	    int aid = 0;
 		
-	    int aid =  Integer.parseInt(req.getParameter("aid"));
+	    try {
+	    	aid =  Integer.parseInt(req.getParameter("aid"));
+		} catch (Exception e) {
+			System.out.println(e);
+		}
+	   
 	    
 	    System.out.println(aid);
 	    
