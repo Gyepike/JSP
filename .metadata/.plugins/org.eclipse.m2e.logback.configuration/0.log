@@ -3779,3 +3779,348 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestJDBC references
 2020-11-14 00:29:15,478 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPAdvencedMVC\src\main\resources
 2020-11-14 00:29:15,479 [Worker-468: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-11-14 00:29:15,480 [Worker-468: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPAdvencedMVC\src\test\resources
+2020-11-14 23:37:42,600 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-14 23:37:47,028 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-14 23:37:47,030 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPAdvencedMVC\src\main\resources
+2020-11-14 23:37:47,031 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-14 23:37:47,032 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPAdvencedMVC\src\test\resources
+2020-11-14 23:37:47,882 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-14 23:37:47,883 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPDemo\src\main\resources
+2020-11-14 23:37:47,885 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-14 23:37:47,885 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPDemo\src\test\resources
+2020-11-14 23:37:48,161 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-14 23:37:48,162 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPTelusko\src\main\resources
+2020-11-14 23:37:48,163 [Worker-5: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-14 23:37:48,164 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPTelusko\src\test\resources
+2020-11-14 23:48:38,557 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.anti:JSTLLogin:0.0.1-SNAPSHOT @ C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\pom.xml.
+2020-11-14 23:48:38,680 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLLogin/src
+2020-11-14 23:48:38,680 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSTLLogin/src/test/java because it overlaps with /JSTLLogin/src
+2020-11-14 23:48:38,958 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-14 23:48:39,212 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.anti:JSTLLogin:0.0.1-SNAPSHOT @ C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\pom.xml.
+2020-11-14 23:48:39,302 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLLogin/src
+2020-11-14 23:48:39,303 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSTLLogin/src/test/java because it overlaps with /JSTLLogin/src
+2020-11-14 23:48:39,472 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSTLLogin
+2020-11-14 23:48:39,482 [Worker-15: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-14 23:48:39,656 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-14 23:48:39,657 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-14 23:48:39,658 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-14 23:48:39,659 [Worker-20: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-14 23:48:39,659 [Worker-20: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLLogin
+2020-11-14 23:48:39,660 [Worker-20: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLLogin
+2020-11-14 23:48:39,676 [Worker-20: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:05:24,155 [Worker-32: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.anti:JSTLLogin:0.0.1-SNAPSHOT @ C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\pom.xml.
+2020-11-15 00:05:24,220 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:05:24,221 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:05:24,222 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:05:24,222 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:05:24,223 [Worker-32: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLLogin
+2020-11-15 00:05:24,223 [Worker-32: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLLogin
+2020-11-15 00:05:24,226 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:05:25,417 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:05:25,418 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:05:25,418 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:05:25,419 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:06:35,295 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-15 00:06:35,536 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.anti:JSTLLogin:0.0.1-SNAPSHOT @ C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\pom.xml.
+2020-11-15 00:06:35,586 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLLogin/src
+2020-11-15 00:06:35,586 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSTLLogin/src/test/java because it overlaps with /JSTLLogin/src
+2020-11-15 00:06:35,744 [Worker-29: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSTLLogin
+2020-11-15 00:06:35,747 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-15 00:06:35,891 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:06:35,892 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:06:35,894 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:06:35,894 [Worker-29: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:06:35,895 [Worker-29: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLLogin
+2020-11-15 00:06:35,895 [Worker-29: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLLogin
+2020-11-15 00:06:35,897 [Worker-29: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:07:47,421 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:07:47,422 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:07:47,423 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:07:47,423 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:08:27,118 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:08:27,118 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:08:27,119 [Worker-30: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:08:27,120 [Worker-30: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:08:34,128 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:08:34,128 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:08:34,129 [Worker-32: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:08:34,130 [Worker-32: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:10:18,218 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:10:18,219 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:10:18,219 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:10:18,220 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:10:34,986 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:10:34,987 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:10:34,988 [Worker-31: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:10:34,988 [Worker-31: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:12:20,740 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:12:20,741 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:12:20,742 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:12:20,742 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:12:32,916 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:12:32,916 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:12:32,917 [Worker-33: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:12:32,918 [Worker-33: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:42:10,609 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:42:10,610 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:42:10,611 [Worker-42: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:42:10,611 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:43:35,710 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:43:35,711 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:43:35,711 [Worker-48: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:43:35,712 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:44:30,166 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:44:30,167 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:44:30,168 [Worker-46: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:44:30,168 [Worker-46: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:44:55,497 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:44:55,498 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:44:55,499 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:44:55,499 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:45:58,801 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:45:58,801 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:45:58,802 [Worker-25: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:45:58,803 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 00:46:05,231 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:46:05,232 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 00:46:05,233 [Worker-49: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 00:46:05,234 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 01:05:56,156 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:05:56,157 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 01:05:56,159 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:05:56,161 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 01:06:25,731 [Worker-57: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:06:25,732 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 01:06:25,733 [Worker-57: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:06:25,733 [Worker-57: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 01:12:44,937 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:12:44,939 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 01:12:44,940 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:12:44,941 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 01:14:15,770 [Worker-59: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.anti:JSTLLogin:0.0.1-SNAPSHOT @ C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\pom.xml.
+2020-11-15 01:14:16,267 [Worker-59: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2020-11-15 01:14:16,322 [Worker-59: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2020-11-15 01:14:16,375 [Worker-59: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2020-11-15 01:14:16,613 [Worker-59: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.jar
+2020-11-15 01:14:16,739 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:14:16,739 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 01:14:16,740 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:14:16,740 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 01:14:16,741 [Worker-59: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLLogin
+2020-11-15 01:14:16,741 [Worker-59: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLLogin
+2020-11-15 01:14:16,742 [Worker-59: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:14:17,948 [Worker-52: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2-sources.jar
+2020-11-15 01:14:17,954 [Worker-52: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for jstl:jstl:1.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar:sources:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2020-11-15 01:14:17,980 [Worker-58: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:14:17,981 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 01:14:17,981 [Worker-58: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:14:17,982 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 01:14:27,045 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-15 01:14:27,270 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.anti:JSTLLogin:0.0.1-SNAPSHOT @ C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\pom.xml.
+2020-11-15 01:14:27,321 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /JSTLLogin/src
+2020-11-15 01:14:27,321 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /JSTLLogin/src/test/java because it overlaps with /JSTLLogin/src
+2020-11-15 01:14:27,489 [Worker-60: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for JSTLLogin
+2020-11-15 01:14:27,505 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-15 01:14:27,894 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:14:27,895 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 01:14:27,896 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:14:27,896 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 01:14:27,897 [Worker-52: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of JSTLLogin
+2020-11-15 01:14:27,897 [Worker-52: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for JSTLLogin
+2020-11-15 01:14:27,899 [Worker-52: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:14:28,500 [Worker-62: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2-javadoc.jar
+2020-11-15 01:14:28,502 [Worker-62: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for jstl:jstl:1.2
+org.eclipse.core.runtime.CoreException: Could not resolve artifact jstl:jstl:jar:javadoc:1.2
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2020-11-15 01:16:42,379 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:16:42,380 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 01:16:42,383 [Worker-64: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 01:16:42,383 [Worker-64: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 21:45:40,599 [Worker-265: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:45:40,600 [Worker-265: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 21:45:40,600 [Worker-265: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:45:40,601 [Worker-265: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 21:46:30,502 [Worker-260: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:46:30,504 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 21:46:30,505 [Worker-260: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:46:30,506 [Worker-260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 21:55:57,611 [Worker-269: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:55:57,612 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 21:55:57,613 [Worker-269: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:55:57,614 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 21:56:25,789 [Worker-269: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:56:25,789 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 21:56:25,790 [Worker-269: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:56:25,791 [Worker-269: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 21:56:39,821 [Worker-270: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:56:39,822 [Worker-270: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 21:56:39,823 [Worker-270: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:56:39,824 [Worker-270: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 21:58:18,967 [Worker-274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:58:18,967 [Worker-274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 21:58:18,968 [Worker-274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:58:18,969 [Worker-274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 21:58:22,558 [Worker-271: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:58:22,559 [Worker-271: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 21:58:22,559 [Worker-271: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 21:58:22,560 [Worker-271: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:13:13,264 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:13:13,264 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:13:13,265 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:13:13,266 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:16:21,647 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:16:21,784 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:16:21,784 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:16:21,784 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:18:40,722 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:18:40,724 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:18:40,726 [Worker-277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:18:40,727 [Worker-277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:22:35,601 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:22:35,602 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:22:35,602 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:22:35,603 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:23:03,896 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:23:03,896 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:23:03,897 [Worker-290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:23:03,898 [Worker-290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:24:03,145 [Worker-291: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:24:03,145 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:24:03,145 [Worker-291: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:24:03,145 [Worker-291: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:24:34,380 [Worker-289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:24:34,380 [Worker-289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:24:34,380 [Worker-289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:24:34,380 [Worker-289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:31:41,165 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:31:41,165 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:31:41,167 [Worker-294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:31:41,168 [Worker-294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:32:27,497 [Worker-293: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:32:27,498 [Worker-293: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:32:27,498 [Worker-293: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:32:27,499 [Worker-293: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 22:32:49,095 [Worker-297: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:32:49,096 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 22:32:49,096 [Worker-297: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 22:32:49,097 [Worker-297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:46:30,492 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:46:30,492 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:46:30,492 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:46:30,492 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:47:04,845 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:47:04,846 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:47:04,846 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:47:04,847 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:48:18,771 [Worker-312: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:48:18,772 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:48:18,773 [Worker-312: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:48:18,773 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:48:28,368 [Worker-312: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:48:28,368 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:48:28,368 [Worker-312: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:48:28,368 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:49:55,582 [Worker-317: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:49:55,582 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:49:55,583 [Worker-317: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:49:55,584 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:50:45,684 [Worker-319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:50:45,685 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:50:45,685 [Worker-319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:50:45,685 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:50:50,857 [Worker-314: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:50:50,858 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:50:50,858 [Worker-314: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:50:50,859 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:51:33,173 [Worker-318: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:51:33,174 [Worker-318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:51:33,175 [Worker-318: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:51:33,176 [Worker-318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:52:00,757 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:52:00,757 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:52:00,758 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:52:00,758 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:53:17,974 [Worker-314: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:53:17,976 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:53:17,977 [Worker-314: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:53:17,979 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:54:29,647 [Worker-319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:54:29,648 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:54:29,649 [Worker-319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:54:29,650 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:54:36,369 [Worker-314: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:54:36,370 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:54:36,371 [Worker-314: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:54:36,371 [Worker-314: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:55:09,025 [Worker-312: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:55:09,026 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:55:09,027 [Worker-312: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:55:09,027 [Worker-312: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:55:31,712 [Worker-317: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:55:31,713 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:55:31,714 [Worker-317: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:55:31,715 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:56:15,693 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:56:15,694 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:56:15,694 [Worker-321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:56:15,695 [Worker-321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-15 23:57:49,120 [Worker-317: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:57:49,120 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-15 23:57:49,120 [Worker-317: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-15 23:57:49,120 [Worker-317: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-16 00:01:30,231 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:01:30,231 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-16 00:01:30,232 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:01:30,233 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-16 00:02:47,927 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:02:47,928 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-16 00:02:47,928 [Worker-316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:02:47,929 [Worker-316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-16 00:03:02,314 [Worker-319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:03:02,314 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-16 00:03:02,314 [Worker-319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:03:02,315 [Worker-319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-16 00:03:24,706 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:03:24,707 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-16 00:03:24,707 [Worker-311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:03:24,708 [Worker-311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
+2020-11-16 00:03:53,595 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:03:53,596 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\main\resources
+2020-11-16 00:03:53,596 [Worker-315: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 00:03:53,597 [Worker-315: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSTLLogin\src\test\resources
