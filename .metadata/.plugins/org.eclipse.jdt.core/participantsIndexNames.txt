@@ -11,6 +11,10 @@ C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp
 \TesLusko_ServletJSP\src
 C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1761069182.index
 \firstwebproject\src\main\resources
+C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1087057313.index
+\JSTLFilter\src
+C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3693875040.index
+\JSPLOGIN\src
 C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1116313034.index
 \JSPAdvencedMVC\src
 C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1207239963.index
