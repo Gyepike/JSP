@@ -8216,3 +8216,107 @@ org.eclipse.core.runtime.CoreException: Launch configuration App references non-
 2020-11-26 21:20:54,804 [Worker-407: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\producservices\src\main\resources
 2020-11-26 21:20:54,804 [Worker-407: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-11-26 21:20:54,804 [Worker-407: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\producservices\src\test\resources
+2020-11-26 21:26:11,504 [Worker-410: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.anti.product:producservices2:0.0.1-SNAPSHOT @ C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProducsServices\pom.xml.
+2020-11-26 21:26:11,566 [Worker-410: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:26:11,566 [Worker-410: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProducsServices\src\main\resources
+2020-11-26 21:26:11,566 [Worker-410: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:26:11,566 [Worker-410: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProducsServices\src\test\resources
+2020-11-26 21:26:13,159 [Worker-407: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:26:13,159 [Worker-407: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProducsServices\src\main\resources
+2020-11-26 21:26:13,160 [Worker-407: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:26:13,160 [Worker-407: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProducsServices\src\test\resources
+2020-11-26 21:26:30,788 [Worker-411: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.anti.product:producservices2:0.0.1-SNAPSHOT @ C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\pom.xml.
+2020-11-26 21:26:30,834 [Worker-411: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:26:30,850 [Worker-411: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 21:26:30,850 [Worker-411: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:26:30,850 [Worker-411: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 21:26:32,430 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:26:32,430 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 21:26:32,430 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:26:32,430 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 21:29:12,725 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:29:12,726 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 21:29:12,726 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:29:12,726 [Worker-392: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 21:30:35,129 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:30:35,129 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 21:30:35,129 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:30:35,129 [Worker-408: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 21:31:58,109 [Worker-406: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:31:58,109 [Worker-406: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 21:31:58,109 [Worker-406: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:31:58,109 [Worker-406: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 21:33:01,180 [Worker-406: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:33:01,180 [Worker-406: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 21:33:01,181 [Worker-406: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:33:01,181 [Worker-406: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 21:50:11,539 [Worker-415: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:50:11,539 [Worker-415: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 21:50:11,539 [Worker-415: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 21:50:11,539 [Worker-415: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:00:51,623 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:00:51,623 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:00:51,623 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:00:51,623 [Worker-417: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:01:22,679 [Worker-422: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:01:22,679 [Worker-422: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:01:22,679 [Worker-422: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:01:22,679 [Worker-422: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:02:44,468 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:02:44,468 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:02:44,468 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:02:44,468 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:02:46,849 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:02:46,849 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:02:46,849 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:02:46,849 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:03:06,046 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:03:06,046 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:03:06,046 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:03:06,047 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:03:19,981 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:03:19,981 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:03:19,981 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:03:19,981 [Worker-421: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:07:09,335 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:07:09,335 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old\src\main\resources
+2020-11-26 22:07:09,336 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:07:09,336 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old\src\test\resources
+2020-11-26 22:14:56,330 [Worker-420: Launching Executing install in C__Users_Gyepi_eclipse-workspace-2019-JSP_productservices-old] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old
+2020-11-26 22:14:56,330 [Worker-420: Launching Executing install in C__Users_Gyepi_eclipse-workspace-2019-JSP_productservices-old] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-26 22:14:59,335 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:14:59,335 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old\src\main\resources
+2020-11-26 22:14:59,335 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:14:59,336 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old\src\test\resources
+2020-11-26 22:15:31,105 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:15:31,105 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:15:31,106 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:15:31,106 [Worker-423: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:18:03,359 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:18:03,359 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old\src\main\resources
+2020-11-26 22:18:03,359 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:18:03,359 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old\src\test\resources
+2020-11-26 22:18:06,466 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:18:06,466 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:18:06,467 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:18:06,467 [Worker-420: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-26 22:18:28,585 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:18:28,585 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old\src\main\resources
+2020-11-26 22:18:28,586 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:18:28,586 [Worker-424: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices-old\src\test\resources
+2020-11-26 22:19:39,846 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:19:39,846 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-26 22:19:39,846 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-26 22:19:39,847 [Worker-427: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-27 00:46:26,663 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-27 00:46:26,663 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-27 00:46:26,664 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-27 00:46:26,664 [Worker-459: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-27 00:46:43,656 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-27 00:46:43,656 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-27 00:46:43,656 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-27 00:46:43,657 [Worker-458: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources
+2020-11-27 00:46:54,242 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-27 00:46:54,242 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\main\resources
+2020-11-27 00:46:54,243 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-11-27 00:46:54,243 [Worker-460: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ProductServices\src\test\resources

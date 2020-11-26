@@ -152,7 +152,7 @@ val stream : Stream&amp;lt;Person&amp;gt; = cqlTemplate.queryForStream(&amp;quot
       <name>Christoph Strobl</name>
     </author>
     <id>tag:spring.io,2020-11-05:4256</id>
-    <updated>2020-11-24T13:19:57Z</updated>
+    <updated>2020-11-24T13:19:00Z</updated>
     <content type="html">&lt;div class="paragraph"&gt;
 &lt;p&gt;Spring Data Elasticsearch is one of the community modules shipped with the &lt;a href="https://spring.io/blog/2020/11/06/spring-data-2020-0-new-and-noteworthy-a-general-overview"&gt;2020.0&lt;/a&gt; release. On behalf of &lt;a href="https://twitter.com/sothawo"&gt;P.J. Meisch&lt;/a&gt;, who is doing most of the heavy lifting these days, we&amp;#8217;re happy to share his insights on the current release.&lt;/p&gt;
 &lt;/div&gt;
@@ -223,9 +223,9 @@ Query query = new CriteriaQuery(criteria);&lt;/code&gt;&lt;/pre&gt;
 &lt;div class="content"&gt;
 &lt;pre class="prettyprint highlight"&gt;&lt;code data-lang="java"&gt;Criteria emmaOrLucy = new Criteria()
     .or("firstName").is("Emma")
-    .or("firstName").is("Lucy")
-Criteria criteria = new Criteria("lastName).is("Smith")
-    .subCriteria(emmaOrLucy)&lt;/code&gt;&lt;/pre&gt;
+    .or("firstName").is("Lucy");
+Criteria criteria = new Criteria("lastName").is("Smith")
+    .subCriteria(emmaOrLucy);&lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="paragraph"&gt;
@@ -245,22 +245,22 @@ Criteria criteria = new Criteria("lastName).is("Smith")
 &lt;div class="ulist"&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;GeoJsonPoint&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;GeoJsonPoint&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;GeoJsonMultiPoint&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;GeoJsonMultiPoint&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;GeoJsonMultiLineString&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;GeoJsonMultiLineString&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;GeoJsonPolygon&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;GeoJsonPolygon&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;GeoJsonMultiPolygon&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;GeoJsonMultiPolygon&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;GeoJsonGeometryCollection&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;GeoJsonGeometryCollection&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
