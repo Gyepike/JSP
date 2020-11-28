@@ -1,0 +1,28 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+ 
+  <servlet>
+  	<servlet-name>mano</servlet-name>
+  	<display-name>mano</display-name>
+  	<description></description>
+  	<servlet-class>com.anti.mano.mano</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>Mano</servlet-name>
+  	<display-name>Mano</display-name>
+  	<description></description>
+  	<servlet-class>com.anti.mano.Mano</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>mano</servlet-name>
+  	<url-pattern>/mano</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>Mano</servlet-name>
+  	<url-pattern>/Mano</url-pattern>
+  </servlet-mapping>
+</web-app>

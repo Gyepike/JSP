@@ -23,12 +23,27 @@ public class ProductDAOImplTest {
 		product.setDescription("Best console ever!");
 		product.setPrice(1000);
 		
+		
+		Product product1 = new Product();
+		product1.setId(2);
+		product1.setName("PS5");
+		product1.setDescription("New console");
+		product1.setPrice(2000);
+		
+		
 		dao.create(product);
+		dao.create(product1);
 		
 		Product result = dao.read(1);
 		
 		assertNotNull(result);
 		assertEquals("PS4", result.getName());
+		
+		Product result1 = dao.read(2);
+		
+		System.out.println(result);
+		System.out.println(result1);
+		
 		
 	}
     // extract select new Product ctrl +1 cretae pleadany

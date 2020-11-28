@@ -3955,3 +3955,228 @@ nov. 26, 2020 14:57:54.48
 nov. 26, 2020 14:57:54.52 
 nov. 26, 2020 14:57:54.52 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 nov. 26, 2020 14:57:54.52 
+nov. 27, 2020 05:23:00.46 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 05:23:00.46 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 05:23:04.17 
+nov. 27, 2020 05:23:04.17 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 05:23:04.17 
+nov. 27, 2020 05:24:44.73 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 05:24:44.73 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 05:24:47.57 
+nov. 27, 2020 05:24:47.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 05:24:47.57 
+nov. 27, 2020 05:24:47.61 
+nov. 27, 2020 05:24:47.61 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 05:24:47.61 
+nov. 27, 2020 05:26:15.46 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 05:26:15.46 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 05:26:18.08 
+nov. 27, 2020 05:26:18.08 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 05:26:18.08 
+nov. 27, 2020 05:26:18.12 
+nov. 27, 2020 05:26:18.12 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 05:26:18.12 
+nov. 27, 2020 05:26:59.08 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 05:26:59.08 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 05:27:01.39 
+nov. 27, 2020 05:27:01.39 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 05:27:01.39 
+nov. 27, 2020 05:27:01.43 
+nov. 27, 2020 05:27:01.43 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 05:27:01.43 
+nov. 27, 2020 05:32:32.67 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 05:32:32.67 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 05:32:34.93 
+nov. 27, 2020 05:32:34.93 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 05:32:34.93 
+nov. 27, 2020 05:32:34.97 
+nov. 27, 2020 05:32:34.97 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 05:32:34.97 
+nov. 27, 2020 05:34:12.32 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 05:34:12.32 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 05:34:14.11 
+nov. 27, 2020 05:34:14.11 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 05:34:14.11 
+nov. 27, 2020 05:34:14.15 
+nov. 27, 2020 05:34:14.15 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 05:34:14.15 
+nov. 27, 2020 05:37:51.73 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 05:37:51.73 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 05:37:53.67 
+nov. 27, 2020 05:37:53.67 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 05:37:53.67 
+nov. 27, 2020 20:02:53.92 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:02:53.92 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:02:57.91 
+nov. 27, 2020 20:02:57.91 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 20:02:57.91 
+nov. 27, 2020 20:02:57.96 
+nov. 27, 2020 20:02:57.96 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:02:57.96 
+nov. 27, 2020 20:08:25.18 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:08:25.18 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:08:29.22 
+nov. 27, 2020 20:08:29.22 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 20:08:29.22 
+nov. 27, 2020 20:08:29.26 
+nov. 27, 2020 20:08:29.26 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:08:29.26 
+nov. 27, 2020 20:09:06.02 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:09:06.02 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:09:09.19 
+nov. 27, 2020 20:09:09.19 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 20:09:09.19 
+nov. 27, 2020 20:09:09.23 
+nov. 27, 2020 20:09:09.23 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:09:09.23 
+nov. 27, 2020 20:10:36.75 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:10:36.75 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:10:55.80 
+nov. 27, 2020 20:10:55.80 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:10:55.80 
+nov. 27, 2020 20:12:35.71 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:12:35.71 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:13:26.13 
+nov. 27, 2020 20:13:26.13 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 20:13:26.13 
+nov. 27, 2020 20:13:26.18 
+nov. 27, 2020 20:13:26.18 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:13:26.18 
+nov. 27, 2020 20:34:11.59 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:34:11.59 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:34:15.45 
+nov. 27, 2020 20:34:15.45 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 20:34:15.45 
+nov. 27, 2020 20:34:15.49 
+nov. 27, 2020 20:34:15.49 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:34:15.49 
+nov. 27, 2020 20:35:03.92 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:35:03.92 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:35:06.74 
+nov. 27, 2020 20:35:06.74 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 20:35:06.74 
+nov. 27, 2020 20:35:06.88 
+nov. 27, 2020 20:35:06.88 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:35:06.88 
+nov. 27, 2020 20:38:30.06 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:38:30.06 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:38:32.14 
+nov. 27, 2020 20:38:32.14 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 20:38:32.14 
+nov. 27, 2020 20:38:32.19 
+nov. 27, 2020 20:38:32.19 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:38:32.19 
+nov. 27, 2020 20:38:58.76 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:38:58.76 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:39:01.84 
+nov. 27, 2020 20:39:01.84 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 20:39:01.84 
+nov. 27, 2020 20:39:01.89 
+nov. 27, 2020 20:39:01.89 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:39:01.89 
+nov. 27, 2020 20:39:25.31 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:39:25.31 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:39:28.54 
+nov. 27, 2020 20:39:28.54 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:39:28.54 
+nov. 27, 2020 20:49:57.97 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 20:49:57.97 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 20:50:02.29 
+nov. 27, 2020 20:50:02.29 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 20:50:02.29 
+nov. 27, 2020 21:12:52.59 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 21:12:52.59 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 21:12:54.62 
+nov. 27, 2020 21:12:54.62 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 21:12:54.62 
+nov. 27, 2020 21:12:54.67 
+nov. 27, 2020 21:12:54.67 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 21:12:54.67 
+nov. 27, 2020 21:31:25.82 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 21:31:25.82 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 21:31:27.98 
+nov. 27, 2020 21:31:27.98 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 21:31:27.98 
+nov. 27, 2020 21:31:28.03 
+nov. 27, 2020 21:31:28.03 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 21:31:28.03 
+nov. 27, 2020 23:12:12.28 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 23:12:12.28 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 23:12:15.31 
+nov. 27, 2020 23:12:15.31 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 23:12:15.31 
+nov. 27, 2020 23:15:26.51 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 23:15:26.51 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 23:15:28.47 
+nov. 27, 2020 23:15:28.47 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 23:15:28.47 
+nov. 27, 2020 23:15:28.51 
+nov. 27, 2020 23:15:28.51 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 23:15:28.51 
+
+nov. 27, 2020 23:20:51.65 NEW SESSION
+nov. 27, 2020 23:20:51.65 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 23:20:51.65 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 23:20:54.87 
+nov. 27, 2020 23:20:54.87 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 23:20:54.87 
+nov. 27, 2020 23:20:54.92 
+nov. 27, 2020 23:20:54.92 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 23:20:54.92 
+nov. 27, 2020 23:22:40.38 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 27, 2020 23:22:40.38 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 27, 2020 23:22:45.57 
+nov. 27, 2020 23:22:45.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 27, 2020 23:22:45.57 
+nov. 27, 2020 23:22:45.62 
+nov. 27, 2020 23:22:45.62 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 27, 2020 23:22:45.62 
+nov. 28, 2020 24:06:30.44 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 28, 2020 24:06:30.44 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 28, 2020 24:06:33.58 
+nov. 28, 2020 24:06:33.58 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 28, 2020 24:06:33.58 
+nov. 28, 2020 24:06:33.63 
+nov. 28, 2020 24:06:33.63 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 28, 2020 24:06:33.63 
+nov. 28, 2020 24:09:05.47 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 28, 2020 24:09:05.47 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 28, 2020 24:09:08.11 
+nov. 28, 2020 24:09:08.11 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 28, 2020 24:09:08.11 
+nov. 28, 2020 24:14:03.43 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 28, 2020 24:14:03.43 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 28, 2020 24:14:06.65 
+nov. 28, 2020 24:14:06.65 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 28, 2020 24:14:06.65 
+nov. 28, 2020 24:14:06.71 
+nov. 28, 2020 24:14:06.71 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 28, 2020 24:14:06.71 
+nov. 28, 2020 24:17:25.02 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 28, 2020 24:17:25.02 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 28, 2020 24:17:27.79 
+nov. 28, 2020 24:17:27.79 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 28, 2020 24:17:27.79 
+nov. 28, 2020 24:17:27.83 
+nov. 28, 2020 24:17:27.83 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 28, 2020 24:17:27.83 
+nov. 28, 2020 23:07:55.98 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 28, 2020 23:07:55.98 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 28, 2020 23:07:59.95 
+nov. 28, 2020 23:07:59.95 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+nov. 28, 2020 23:07:59.95 
+nov. 28, 2020 23:07:59.99 
+nov. 28, 2020 23:07:59.99 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 28, 2020 23:07:59.99 
+nov. 28, 2020 23:13:45.57 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 28, 2020 23:13:45.57 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 28, 2020 23:13:49.98 
+nov. 28, 2020 23:13:49.98 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 28, 2020 23:13:49.98 
+nov. 28, 2020 23:15:11.18 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 28, 2020 23:15:11.18 Can't find symbol 'eglSetDamageRegionKHR'.
+nov. 28, 2020 23:15:13.95 
+nov. 28, 2020 23:15:13.95 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+nov. 28, 2020 23:15:13.95 
+nov. 29, 2020 24:12:42.52 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+nov. 29, 2020 24:12:42.53 Can't find symbol 'eglSetDamageRegionKHR'.

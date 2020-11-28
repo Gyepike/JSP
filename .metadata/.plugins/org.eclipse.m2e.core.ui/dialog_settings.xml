@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPHello"/>
+			<item value="C:\Users\Gyepi\eclipse-workspace-2019-JSP\productservices\src\main\java\com\anti\product\bo\ProductBOImpl.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -25,30 +27,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="net.javaguides.firstwebproject.firstwebproject"/>
-			<item value="com.anti.ElsoMaven"/>
-			<item value="com.anti.Helloworld"/>
-			<item value="com.anti.MavenTutorilal"/>
-			<item value="com.anti.MavenWebProject"/>
-			<item value="com.anti.TestMaven"/>
-			<item value="com.anti.Jersey"/>
-			<item value="com.anti.J2EE"/>
-			<item value="com.anti.maventest"/>
+			<item value="com.anti.munyik.munyi"/>
 		</list>
 		<list key="groupId">
-			<item value="net.javaguides.firstwebproject"/>
-			<item value="com.anti"/>
+			<item value="com.anti.munyik"/>
 		</list>
 		<list key="artifactId">
-			<item value="firstwebproject"/>
-			<item value="ElsoMaven"/>
-			<item value="Helloworld"/>
-			<item value="MavenTutorilal"/>
-			<item value="MavenWebProject"/>
-			<item value="TestMaven"/>
-			<item value="Jersey"/>
-			<item value="J2EE"/>
-			<item value="maventest"/>
+			<item value="munyi"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -82,11 +67,22 @@
 		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
 	</section>
 	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="com.anti.Hello"/>
+			<item value="JSPHello"/>
+			<item value="com.anti.Pistak"/>
 			<item value="com.anti"/>
 			<item value="JSTLLogi"/>
 			<item value="JSPAdvenced"/>
@@ -95,6 +91,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Hello2"/>
+			<item value="JSPHello"/>
+			<item value="Pista"/>
 			<item value="WebProject"/>
 			<item value="JSPLOGIN"/>
 			<item value="JSTLLogin"/>

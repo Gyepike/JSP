@@ -3,7 +3,12 @@ package com.anti.product.dto;
 
 //Modell !!!
 public class Product {
-   private int id;
+	
+   @Override
+	public String toString() {
+		return "Product [id=" + id + ", name=" + name + ", description=" + description + ", price=" + price + "]";
+	}
+private int id;
    private String name;
    private String description;
    private int price;
