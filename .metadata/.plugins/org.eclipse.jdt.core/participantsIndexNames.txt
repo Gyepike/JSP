@@ -5,6 +5,8 @@ C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp
 \servletke\src\main\resources
 C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4264616549.index
 \JSPMAVEN\src
+C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3989564368.index
+\SpringTest\src\test\java
 C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3404159444.index
 \mano\src\main\java
 C:\Users\Gyepi\eclipse-workspace-2019-JSP\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3284326649.index
