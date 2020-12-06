@@ -20,13 +20,13 @@ import javax.servlet.http.HttpServletResponse;
  * no web.xml / webcontent present
  */
 @WebServlet("/Alma")
-public class Alma extends HttpServlet {
+public class ServiceData extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
     /**
      * @see HttpServlet#HttpServlet()
      */
-    public Alma() {
+    public ServiceData() {
         super();
         // TODO Auto-generated constructor stub
     }

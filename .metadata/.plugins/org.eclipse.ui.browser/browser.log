@@ -4196,3 +4196,8 @@ nov. 29, 2020 20:46:19.48 Can't find symbol 'eglSetDamageRegionKHR'.
 nov. 29, 2020 20:46:21.96 
 nov. 29, 2020 20:46:21.96 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 nov. 29, 2020 20:46:21.96 
+dec. 04, 2020 20:33:30.33 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+dec. 04, 2020 20:33:30.34 Can't find symbol 'eglSetDamageRegionKHR'.
+dec. 04, 2020 20:33:34.99 
+dec. 04, 2020 20:33:34.99 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+dec. 04, 2020 20:33:34.99 
