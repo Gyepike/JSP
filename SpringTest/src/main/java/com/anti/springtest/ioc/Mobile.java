@@ -9,7 +9,7 @@ import com.anti.springtest.practise.AppControl;
 public class Mobile {
 
 	 public static void main(String[] args) {
-		//SIM sim = new VodaPhone();
+		//SIM sim = new VodaPhone(); old way before spring
 		// sim.calling();
 		//	sim.data();
 

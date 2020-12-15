@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+   
+    <bean id="studentA" class="com.anti.springtest.di.SpringSetStudent">
+      <property name="studentName" value="Munyi set injection"></property>
+      <property name="id" value="1"></property>     
+    </bean>
+    
+     <bean id="studentB" class="com.anti.springtest.di.SpringSetStudent">
+      <property name="studentName" value="Munyo set injection"></property>
+      <property name="id" value="2"></property>     
+    </bean>
+    
+     
+     <bean id="studentC" class="com.anti.springtest.di.ConstStudent">
+      <constructor-arg name="studentName" value="Munyo es Munyi constructor injection" type="String"/>
+      <constructor-arg name="id" value="3" />     
+    </bean>
+    
+     <bean id="studentD" class="com.anti.springtest.di.ConstStudent">
+      <constructor-arg name="id" value="4" type="int"/>     
+    </bean>
+    
+    
+</beans> 

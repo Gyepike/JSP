@@ -11777,3 +11777,799 @@ java.lang.NullPointerException: null
 2020-12-06 21:03:31,268 [Worker-1492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2020-12-06 21:03:31,269 [Worker-1492: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-12-06 21:03:31,269 [Worker-1492: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-06 22:07:16,089 [Worker-1515: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-06 22:07:16,094 [Worker-1515: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-06 22:07:16,095 [Worker-1515: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-06 22:07:16,095 [Worker-1515: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-06 22:07:20,422 [Worker-1513: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-06 22:07:20,423 [Worker-1513: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-06 22:07:20,424 [Worker-1513: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-06 22:07:20,424 [Worker-1513: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-06 22:07:49,775 [Worker-1510: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-06 22:07:49,776 [Worker-1510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-06 22:07:49,778 [Worker-1510: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-06 22:07:49,778 [Worker-1510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-06 22:08:07,524 [Worker-1510: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-06 22:08:07,525 [Worker-1510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-06 22:08:07,526 [Worker-1510: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-06 22:08:07,526 [Worker-1510: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 21:58:38,673 [Worker-2018: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 21:58:38,688 [Worker-2018: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 21:58:38,689 [Worker-2018: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 21:58:38,690 [Worker-2018: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 21:59:21,807 [Worker-2014: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 21:59:21,809 [Worker-2014: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 21:59:21,810 [Worker-2014: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 21:59:21,810 [Worker-2014: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:33:24,828 [Worker-2021: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:33:24,833 [Worker-2021: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:33:24,834 [Worker-2021: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:33:24,834 [Worker-2021: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:34:41,341 [Worker-2020: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:34:41,342 [Worker-2020: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:34:41,343 [Worker-2020: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:34:41,344 [Worker-2020: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:47:02,351 [Worker-2020: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:47:02,355 [Worker-2020: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:47:02,356 [Worker-2020: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:47:02,357 [Worker-2020: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:47:42,759 [Worker-2018: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:47:42,761 [Worker-2018: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:47:42,761 [Worker-2018: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:47:42,762 [Worker-2018: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:48:13,136 [Worker-2025: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:48:13,137 [Worker-2025: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:48:13,138 [Worker-2025: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:48:13,139 [Worker-2025: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:48:38,452 [Worker-2026: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:48:38,453 [Worker-2026: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:48:38,454 [Worker-2026: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:48:38,454 [Worker-2026: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:48:54,533 [Worker-2018: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:48:54,535 [Worker-2018: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:48:54,535 [Worker-2018: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:48:54,536 [Worker-2018: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:49:10,153 [Worker-2028: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:49:10,154 [Worker-2028: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:49:10,155 [Worker-2028: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:49:10,156 [Worker-2028: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:50:51,724 [Worker-2023: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:50:51,725 [Worker-2023: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:50:51,726 [Worker-2023: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:50:51,726 [Worker-2023: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:51:42,517 [Worker-2026: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:51:42,518 [Worker-2026: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:51:42,520 [Worker-2026: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:51:42,520 [Worker-2026: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:51:54,949 [Worker-2018: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:51:54,950 [Worker-2018: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:51:54,951 [Worker-2018: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:51:54,951 [Worker-2018: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 22:53:16,047 [Worker-2020: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:53:16,048 [Worker-2020: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 22:53:16,048 [Worker-2020: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 22:53:16,049 [Worker-2020: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-10 23:56:58,744 [Worker-2035: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 23:56:58,751 [Worker-2035: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-10 23:56:58,752 [Worker-2035: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-10 23:56:58,753 [Worker-2035: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 17:41:32,051 [Worker-2211: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 17:41:32,068 [Worker-2211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-12 17:41:32,072 [Worker-2211: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 17:41:32,072 [Worker-2211: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:25:11,258 [Worker-2208: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:25:11,262 [Worker-2208: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-12 18:25:11,264 [Worker-2208: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:25:11,265 [Worker-2208: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:25:38,065 [Worker-2210: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:25:38,242 [Worker-2210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-12 18:25:38,245 [Worker-2210: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:25:38,245 [Worker-2210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:51:26,944 [Worker-2222: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:51:26,948 [Worker-2222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:51:26,950 [Worker-2222: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:51:26,950 [Worker-2222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:51:36,033 [Worker-2206: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:51:36,034 [Worker-2206: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:51:36,035 [Worker-2206: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:51:36,036 [Worker-2206: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:54:39,200 [Worker-2219: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:54:39,201 [Worker-2219: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:54:39,203 [Worker-2219: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:54:39,203 [Worker-2219: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:54:52,816 [Worker-2226: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:54:52,817 [Worker-2226: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:54:52,818 [Worker-2226: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:54:52,819 [Worker-2226: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:55:28,831 [Worker-2229: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:55:28,832 [Worker-2229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:55:28,833 [Worker-2229: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:55:28,834 [Worker-2229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:55:52,975 [Worker-2226: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:55:52,977 [Worker-2226: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:55:52,977 [Worker-2226: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:55:52,978 [Worker-2226: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:56:41,087 [Worker-2206: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:56:41,088 [Worker-2206: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:56:41,089 [Worker-2206: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:56:41,090 [Worker-2206: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:56:59,449 [Worker-2206: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:56:59,450 [Worker-2206: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:56:59,452 [Worker-2206: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:56:59,452 [Worker-2206: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 18:57:45,958 [Worker-2229: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:57:45,960 [Worker-2229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 18:57:45,960 [Worker-2229: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 18:57:45,961 [Worker-2229: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 19:00:04,588 [Worker-2219: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:00:04,589 [Worker-2219: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 19:00:04,589 [Worker-2219: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:00:04,590 [Worker-2219: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 19:00:30,188 [Worker-2223: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:00:30,189 [Worker-2223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 19:00:30,190 [Worker-2223: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:00:30,191 [Worker-2223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 19:01:02,134 [Worker-2222: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:01:02,135 [Worker-2222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 19:01:02,135 [Worker-2222: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:01:02,136 [Worker-2222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 19:01:17,868 [Worker-2223: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:01:17,869 [Worker-2223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 19:01:17,869 [Worker-2223: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:01:17,870 [Worker-2223: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 19:02:16,716 [Worker-2225: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:02:16,717 [Worker-2225: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 19:02:16,718 [Worker-2225: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:02:16,718 [Worker-2225: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 19:02:28,837 [Worker-2227: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:02:28,838 [Worker-2227: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 19:02:28,838 [Worker-2227: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:02:28,838 [Worker-2227: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 19:02:38,111 [Worker-2227: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:02:38,112 [Worker-2227: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 19:02:38,114 [Worker-2227: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 19:02:38,115 [Worker-2227: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 22:42:31,655 [Worker-2253: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 22:42:31,659 [Worker-2253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 22:42:31,661 [Worker-2253: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 22:42:31,661 [Worker-2253: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 22:42:45,367 [Worker-2254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 22:42:45,368 [Worker-2254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 22:42:45,369 [Worker-2254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 22:42:45,369 [Worker-2254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 22:44:27,399 [Worker-2254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 22:44:27,400 [Worker-2254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 22:44:27,401 [Worker-2254: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 22:44:27,402 [Worker-2254: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:14:01,068 [Worker-2255: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:14:01,073 [Worker-2255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-12 23:14:01,074 [Worker-2255: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:14:01,075 [Worker-2255: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:22:31,771 [Worker-2250: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:22:31,972 [Worker-2250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-12 23:22:31,974 [Worker-2250: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:22:31,975 [Worker-2250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:22:48,834 [Worker-2259: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:22:48,835 [Worker-2259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 23:22:48,836 [Worker-2259: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:22:48,837 [Worker-2259: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:23:18,405 [Worker-2264: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:23:18,407 [Worker-2264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 23:23:18,407 [Worker-2264: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:23:18,408 [Worker-2264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:23:46,537 [Worker-2260: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:23:46,538 [Worker-2260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 23:23:46,539 [Worker-2260: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:23:46,539 [Worker-2260: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:23:58,673 [Worker-2266: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:23:58,674 [Worker-2266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 23:23:58,675 [Worker-2266: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:23:58,675 [Worker-2266: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:24:21,131 [Worker-2264: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:24:21,132 [Worker-2264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 23:24:21,133 [Worker-2264: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:24:21,133 [Worker-2264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:25:05,704 [Worker-2261: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:25:05,705 [Worker-2261: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 23:25:05,707 [Worker-2261: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:25:05,708 [Worker-2261: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:25:16,889 [Worker-2264: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:25:16,890 [Worker-2264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-12 23:25:16,890 [Worker-2264: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:25:16,891 [Worker-2264: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-12 23:38:08,089 [Worker-2250: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:38:08,091 [Worker-2250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-12 23:38:08,094 [Worker-2250: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-12 23:38:08,095 [Worker-2250: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:11:25,316 [Worker-2272: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:11:25,322 [Worker-2272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:11:25,323 [Worker-2272: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:11:25,323 [Worker-2272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:12:33,835 [Worker-2278: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:12:34,042 [Worker-2278: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:12:34,044 [Worker-2278: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:12:34,045 [Worker-2278: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:12:45,441 [Worker-2274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:12:45,442 [Worker-2274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:12:45,445 [Worker-2274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:12:45,446 [Worker-2274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:12:50,963 [Worker-2274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:12:50,964 [Worker-2274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:12:50,965 [Worker-2274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:12:50,965 [Worker-2274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:13:20,744 [Worker-2273: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:13:20,745 [Worker-2273: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:13:20,746 [Worker-2273: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:13:20,747 [Worker-2273: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:14:35,804 [Worker-2279: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:14:35,805 [Worker-2279: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:14:35,806 [Worker-2279: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:14:35,807 [Worker-2279: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:16:16,852 [Worker-2272: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:16:16,853 [Worker-2272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:16:16,855 [Worker-2272: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:16:16,855 [Worker-2272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:16:36,174 [Worker-2279: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:16:36,175 [Worker-2279: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:16:36,177 [Worker-2279: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:16:36,178 [Worker-2279: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:17:14,488 [Worker-2277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:17:14,489 [Worker-2277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:17:14,490 [Worker-2277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:17:14,491 [Worker-2277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:18:32,972 [Worker-2272: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:18:32,973 [Worker-2272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:18:32,974 [Worker-2272: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:18:32,974 [Worker-2272: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:18:58,778 [Worker-2274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:18:58,779 [Worker-2274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:18:58,780 [Worker-2274: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:18:58,780 [Worker-2274: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:19:10,407 [Worker-2276: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:19:10,408 [Worker-2276: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:19:10,409 [Worker-2276: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:19:10,409 [Worker-2276: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:19:29,261 [Worker-2276: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:19:29,262 [Worker-2276: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:19:29,263 [Worker-2276: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:19:29,264 [Worker-2276: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:19:45,394 [Worker-2276: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:19:45,395 [Worker-2276: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:19:45,396 [Worker-2276: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:19:45,396 [Worker-2276: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:22:44,525 [Worker-2277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:22:44,527 [Worker-2277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:22:44,527 [Worker-2277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:22:44,528 [Worker-2277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:29:12,796 [Worker-2278: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:29:12,797 [Worker-2278: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:29:12,799 [Worker-2278: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:29:12,800 [Worker-2278: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:29:39,442 [Worker-2282: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:29:39,443 [Worker-2282: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:29:39,444 [Worker-2282: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:29:39,444 [Worker-2282: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:32:00,825 [Worker-2288: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:32:00,826 [Worker-2288: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:32:00,827 [Worker-2288: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:32:00,827 [Worker-2288: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:32:37,583 [Worker-2283: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:32:37,585 [Worker-2283: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:32:37,586 [Worker-2283: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:32:37,586 [Worker-2283: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:34:23,748 [Worker-2290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:34:23,749 [Worker-2290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:34:23,751 [Worker-2290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:34:23,751 [Worker-2290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:35:57,499 [Worker-2277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:35:57,500 [Worker-2277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:35:57,501 [Worker-2277: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:35:57,502 [Worker-2277: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:36:29,436 [Worker-2278: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:36:29,437 [Worker-2278: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:36:29,438 [Worker-2278: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:36:29,438 [Worker-2278: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:38:25,181 [Worker-2278: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:38:25,182 [Worker-2278: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:38:25,182 [Worker-2278: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:38:25,183 [Worker-2278: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:38:51,748 [Worker-2283: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:38:51,749 [Worker-2283: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:38:51,749 [Worker-2283: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:38:51,750 [Worker-2283: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:38:58,247 [Worker-2289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:38:58,248 [Worker-2289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:38:58,249 [Worker-2289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:38:58,249 [Worker-2289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:39:12,324 [Worker-2293: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:39:12,325 [Worker-2293: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:39:12,326 [Worker-2293: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:39:12,327 [Worker-2293: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:41:42,980 [Worker-2289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:41:42,981 [Worker-2289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:41:42,982 [Worker-2289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:41:42,983 [Worker-2289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:42:54,358 [Worker-2293: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:42:54,359 [Worker-2293: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:42:54,360 [Worker-2293: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:42:54,361 [Worker-2293: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:43:22,013 [Worker-2289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:43:22,014 [Worker-2289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:43:22,015 [Worker-2289: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:43:22,016 [Worker-2289: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:45:55,082 [Worker-2294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:45:55,083 [Worker-2294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:45:55,084 [Worker-2294: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:45:55,085 [Worker-2294: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:46:25,796 [Worker-2295: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:46:25,797 [Worker-2295: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:46:25,799 [Worker-2295: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:46:25,799 [Worker-2295: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:47:30,947 [Worker-2292: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:47:30,948 [Worker-2292: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:47:30,949 [Worker-2292: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:47:30,950 [Worker-2292: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:48:56,505 [Worker-2290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:48:56,506 [Worker-2290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:48:56,506 [Worker-2290: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:48:56,507 [Worker-2290: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:49:32,919 [Worker-2297: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:49:32,920 [Worker-2297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 00:49:32,921 [Worker-2297: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:49:32,921 [Worker-2297: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 00:50:26,383 [Worker-2298: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:50:26,384 [Worker-2298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 00:50:26,386 [Worker-2298: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 00:50:26,386 [Worker-2298: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:23:06,405 [Worker-2311: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:23:06,420 [Worker-2311: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:23:06,422 [Worker-2311: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:23:06,423 [Worker-2311: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:23:25,289 [Worker-2311: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:23:25,290 [Worker-2311: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:23:25,292 [Worker-2311: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:23:25,292 [Worker-2311: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:23:54,573 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:23:54,574 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:23:54,575 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:23:54,575 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:24:49,025 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:24:49,026 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:24:49,027 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:24:49,028 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:25:38,958 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:25:38,959 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:25:38,960 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:25:38,960 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:25:42,416 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:25:42,418 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:25:42,418 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:25:42,419 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:26:09,461 [Worker-2307: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:26:09,615 [Worker-2307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 10:26:09,617 [Worker-2307: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:26:09,617 [Worker-2307: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:26:35,901 [Worker-2311: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:26:35,902 [Worker-2311: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:26:35,903 [Worker-2311: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:26:35,904 [Worker-2311: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:26:45,580 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:26:45,581 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:26:45,582 [Worker-2311: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:26:45,582 [Worker-2311: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:27:22,054 [Worker-2318: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:27:22,055 [Worker-2318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:27:22,056 [Worker-2318: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:27:22,057 [Worker-2318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:27:34,154 [Worker-2318: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:27:34,155 [Worker-2318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:27:34,155 [Worker-2318: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:27:34,156 [Worker-2318: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:28:26,964 [Worker-2319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:28:26,965 [Worker-2319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:28:26,965 [Worker-2319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:28:26,966 [Worker-2319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:29:02,829 [Worker-2318: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:29:02,830 [Worker-2318: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:29:02,831 [Worker-2318: Launching Exam] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:29:02,831 [Worker-2318: Launching Exam] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:29:35,706 [Worker-2316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:29:35,707 [Worker-2316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:29:35,708 [Worker-2316: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:29:35,708 [Worker-2316: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:43:30,787 [Worker-2322: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:43:30,797 [Worker-2322: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:43:30,799 [Worker-2322: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:43:30,802 [Worker-2322: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:44:35,037 [Worker-2324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:44:35,212 [Worker-2324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 10:44:35,214 [Worker-2324: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:44:35,215 [Worker-2324: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:44:40,487 [Worker-2319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:44:40,488 [Worker-2319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 10:44:40,490 [Worker-2319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:44:40,490 [Worker-2319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:44:56,343 [Worker-2321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:44:56,344 [Worker-2321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:44:56,345 [Worker-2321: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:44:56,345 [Worker-2321: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:45:14,925 [Worker-2319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:45:14,926 [Worker-2319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:45:14,927 [Worker-2319: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:45:14,928 [Worker-2319: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 10:45:39,647 [Worker-2325: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:45:39,648 [Worker-2325: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-13 10:45:39,649 [Worker-2325: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 10:45:39,650 [Worker-2325: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 20:12:07,607 [Worker-2398: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 20:12:07,624 [Worker-2398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 20:12:07,627 [Worker-2398: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 20:12:07,627 [Worker-2398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 20:12:23,151 [Worker-2398: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 20:12:23,151 [Worker-2398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 20:12:23,152 [Worker-2398: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 20:12:23,153 [Worker-2398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 20:12:36,965 [Worker-2398: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 20:12:36,966 [Worker-2398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 20:12:36,968 [Worker-2398: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 20:12:36,968 [Worker-2398: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 20:12:58,970 [Worker-2400: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 20:12:59,128 [Worker-2400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 20:12:59,130 [Worker-2400: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 20:12:59,130 [Worker-2400: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 21:05:36,336 [Worker-2409: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 21:05:36,341 [Worker-2409: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 21:05:36,343 [Worker-2409: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 21:05:36,344 [Worker-2409: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 21:05:42,311 [Worker-2410: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 21:05:42,500 [Worker-2410: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 21:05:42,502 [Worker-2410: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 21:05:42,502 [Worker-2410: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 21:06:05,374 [Worker-2409: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 21:06:05,375 [Worker-2409: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 21:06:05,376 [Worker-2409: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 21:06:05,377 [Worker-2409: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 21:06:18,616 [Worker-2409: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 21:06:18,617 [Worker-2409: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 21:06:18,619 [Worker-2409: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 21:06:18,619 [Worker-2409: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 23:12:42,387 [Worker-2422: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 23:12:42,392 [Worker-2422: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 23:12:42,394 [Worker-2422: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 23:12:42,394 [Worker-2422: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 23:13:03,051 [Worker-2429: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 23:13:03,245 [Worker-2429: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 23:13:03,247 [Worker-2429: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 23:13:03,247 [Worker-2429: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-13 23:13:50,802 [Worker-2430: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 23:13:50,803 [Worker-2430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-13 23:13:50,804 [Worker-2430: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-13 23:13:50,805 [Worker-2430: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SpringTest\src\test\resources
+2020-12-14 21:56:44,380 [Worker-2559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 21:56:44,387 [Worker-2559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 21:56:44,388 [Worker-2559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 21:56:44,388 [Worker-2559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 21:57:17,389 [Worker-2559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 21:57:17,390 [Worker-2559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 21:57:17,391 [Worker-2559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 21:57:17,391 [Worker-2559: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 21:58:28,448 [Worker-2569: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 21:58:28,450 [Worker-2569: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 21:58:28,450 [Worker-2569: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 21:58:28,451 [Worker-2569: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:30:16,630 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:30:16,634 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:30:16,635 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:30:16,635 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:32:15,710 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:32:15,710 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:32:15,710 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:32:15,710 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:32:25,511 [Worker-2579: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:32:25,512 [Worker-2579: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:32:25,513 [Worker-2579: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:32:25,513 [Worker-2579: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:32:35,671 [Worker-2573: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:32:35,672 [Worker-2573: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:32:35,673 [Worker-2573: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:32:35,673 [Worker-2573: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:32:42,311 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:32:42,311 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:32:42,312 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:32:42,312 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:33:01,246 [Worker-2574: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:33:01,247 [Worker-2574: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:33:01,247 [Worker-2574: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:33:01,247 [Worker-2574: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:33:51,802 [Worker-2575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:33:51,803 [Worker-2575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:33:51,804 [Worker-2575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:33:51,804 [Worker-2575: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:33:55,451 [Worker-2580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:33:55,451 [Worker-2580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:33:55,453 [Worker-2580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:33:55,453 [Worker-2580: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-14 23:51:27,421 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:51:27,425 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-14 23:51:27,426 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-14 23:51:27,426 [Worker-2577: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 00:51:22,934 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:51:22,939 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-15 00:51:22,940 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:51:22,940 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 00:54:02,786 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:54:02,786 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-15 00:54:02,787 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:54:02,787 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 00:54:25,811 [Worker-2588: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:54:25,812 [Worker-2588: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-15 00:54:25,813 [Worker-2588: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:54:25,813 [Worker-2588: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 00:58:05,251 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:58:05,251 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-15 00:58:05,252 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:58:05,252 [Worker-2585: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 00:58:26,231 [Worker-2591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:58:26,231 [Worker-2591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 00:58:26,232 [Worker-2591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 00:58:26,232 [Worker-2591: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:04:26,825 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:04:26,826 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:04:26,826 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:04:26,826 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:06:49,409 [Worker-2588: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:06:49,409 [Worker-2588: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:06:49,410 [Worker-2588: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:06:49,410 [Worker-2588: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:07:18,559 [Worker-2590: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:07:18,560 [Worker-2590: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:07:18,561 [Worker-2590: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:07:18,561 [Worker-2590: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:07:32,784 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:07:32,784 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:07:32,785 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:07:32,785 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:09:27,899 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:09:27,900 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:09:27,901 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:09:27,901 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:09:39,034 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:09:39,035 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:09:39,035 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:09:39,036 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:09:43,601 [Worker-2590: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:09:43,602 [Worker-2590: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:09:43,602 [Worker-2590: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:09:43,603 [Worker-2590: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:09:58,109 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:09:58,110 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:09:58,111 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:09:58,111 [Worker-2593: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:10:08,120 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:10:08,121 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:10:08,121 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:10:08,122 [Worker-2596: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 01:11:09,647 [Worker-2594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:11:09,647 [Worker-2594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 01:11:09,648 [Worker-2594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 01:11:09,648 [Worker-2594: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 12:52:04,419 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:52:04,424 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-15 12:52:04,425 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:52:04,425 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 12:52:45,574 [Worker-2628: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:52:45,575 [Worker-2628: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 12:52:45,576 [Worker-2628: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:52:45,576 [Worker-2628: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 12:52:46,639 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:52:46,639 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 12:52:46,640 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:52:46,640 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 12:54:01,989 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:54:01,990 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 12:54:01,991 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:54:01,991 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 12:55:07,179 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:55:07,180 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 12:55:07,181 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:55:07,181 [Worker-2640: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 12:56:04,999 [Worker-2628: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:56:04,999 [Worker-2628: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 12:56:04,999 [Worker-2628: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:56:04,999 [Worker-2628: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 12:56:30,859 [Worker-2641: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:56:30,860 [Worker-2641: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 12:56:30,861 [Worker-2641: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 12:56:30,861 [Worker-2641: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:01:37,639 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:01:37,639 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:01:37,641 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:01:37,642 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:01:51,964 [Worker-2636: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:01:51,964 [Worker-2636: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:01:51,965 [Worker-2636: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:01:51,965 [Worker-2636: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:02:05,649 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:02:05,649 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:02:05,650 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:02:05,650 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:02:23,141 [Worker-2646: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:02:23,142 [Worker-2646: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:02:23,142 [Worker-2646: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:02:23,142 [Worker-2646: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:03:28,708 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:03:28,709 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:03:28,709 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:03:28,709 [Worker-2642: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:03:48,844 [Worker-2636: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:03:48,845 [Worker-2636: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:03:48,845 [Worker-2636: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:03:48,845 [Worker-2636: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:50:24,668 [Worker-2648: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:50:24,672 [Worker-2648: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:50:24,673 [Worker-2648: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:50:24,673 [Worker-2648: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:50:44,081 [Worker-2651: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:50:44,082 [Worker-2651: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:50:44,083 [Worker-2651: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:50:44,083 [Worker-2651: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:51:43,358 [Worker-2650: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:51:43,358 [Worker-2650: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:51:43,359 [Worker-2650: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:51:43,359 [Worker-2650: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:51:55,885 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:51:55,885 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:51:55,886 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:51:55,886 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:52:23,160 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:52:23,160 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:52:23,161 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:52:23,161 [Worker-2641: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:53:19,611 [Worker-2648: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:53:19,612 [Worker-2648: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:53:19,613 [Worker-2648: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:53:19,613 [Worker-2648: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 13:53:42,835 [Worker-2649: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:53:42,836 [Worker-2649: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 13:53:42,837 [Worker-2649: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 13:53:42,837 [Worker-2649: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:22:43,410 [Worker-2657: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:22:43,415 [Worker-2657: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:22:43,416 [Worker-2657: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:22:43,416 [Worker-2657: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:22:50,676 [Worker-2656: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:22:50,676 [Worker-2656: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:22:50,677 [Worker-2656: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:22:50,677 [Worker-2656: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:25:14,004 [Worker-2655: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:25:14,004 [Worker-2655: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:25:14,005 [Worker-2655: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:25:14,006 [Worker-2655: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:29:26,243 [Worker-2656: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:29:26,244 [Worker-2656: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:29:26,245 [Worker-2656: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:29:26,245 [Worker-2656: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:31:14,904 [Worker-2656: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:31:14,905 [Worker-2656: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:31:14,906 [Worker-2656: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:31:14,906 [Worker-2656: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:31:27,347 [Worker-2661: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:31:27,353 [Worker-2661: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:31:27,353 [Worker-2661: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:31:27,353 [Worker-2661: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:32:26,824 [Worker-2663: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:32:26,825 [Worker-2663: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:32:26,825 [Worker-2663: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:32:26,826 [Worker-2663: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:33:16,392 [Worker-2660: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:33:16,393 [Worker-2660: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:33:16,394 [Worker-2660: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:33:16,394 [Worker-2660: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:33:19,487 [Worker-2663: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:33:19,487 [Worker-2663: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:33:19,488 [Worker-2663: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:33:19,488 [Worker-2663: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:35:42,372 [Worker-2663: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:35:42,372 [Worker-2663: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:35:42,373 [Worker-2663: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:35:42,373 [Worker-2663: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 14:36:30,376 [Worker-2653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:36:30,377 [Worker-2653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 14:36:30,377 [Worker-2653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 14:36:30,377 [Worker-2653: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 16:57:53,762 [Worker-2672: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:57:53,778 [Worker-2672: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 16:57:53,778 [Worker-2672: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:57:53,778 [Worker-2672: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 16:58:15,435 [Worker-2680: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:58:15,436 [Worker-2680: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 16:58:15,437 [Worker-2680: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:58:15,437 [Worker-2680: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 16:59:42,795 [Worker-2674: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:59:42,795 [Worker-2674: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 16:59:42,811 [Worker-2674: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 16:59:42,811 [Worker-2674: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 17:51:34,620 [Worker-2679: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:51:34,624 [Worker-2679: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 17:51:34,625 [Worker-2679: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 17:51:34,625 [Worker-2679: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:21:29,334 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:21:29,338 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:21:29,339 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:21:29,339 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:21:34,241 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:21:34,242 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:21:34,243 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:21:34,243 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:22:33,575 [Worker-2689: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:22:33,576 [Worker-2689: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:22:33,577 [Worker-2689: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:22:33,577 [Worker-2689: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:23:44,920 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:23:44,921 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:23:44,923 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:23:44,923 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:24:09,965 [Worker-2686: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:24:09,966 [Worker-2686: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:24:09,966 [Worker-2686: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:24:09,967 [Worker-2686: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:24:59,023 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:24:59,024 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:24:59,025 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:24:59,025 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:25:28,713 [Worker-2691: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:25:28,714 [Worker-2691: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:25:28,714 [Worker-2691: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:25:28,714 [Worker-2691: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:26:07,962 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:26:07,962 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:26:07,964 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:26:07,964 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:26:14,173 [Worker-2688: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:26:14,173 [Worker-2688: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:26:14,174 [Worker-2688: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:26:14,174 [Worker-2688: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:26:48,532 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:26:48,533 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:26:48,533 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:26:48,533 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:27:35,681 [Worker-2691: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:27:35,682 [Worker-2691: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:27:35,682 [Worker-2691: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:27:35,682 [Worker-2691: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:27:42,779 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:27:42,779 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:27:42,780 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:27:42,780 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:27:57,906 [Worker-2688: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:27:57,907 [Worker-2688: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:27:57,908 [Worker-2688: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:27:57,908 [Worker-2688: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:28:51,625 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:28:51,626 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:28:51,627 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:28:51,627 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:30:08,804 [Worker-2686: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:30:08,805 [Worker-2686: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:30:08,806 [Worker-2686: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:30:08,806 [Worker-2686: Launching TestStudent] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:30:18,861 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:30:18,861 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:30:18,863 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:30:18,863 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:30:59,442 [Worker-2693: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:30:59,443 [Worker-2693: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:30:59,443 [Worker-2693: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:30:59,444 [Worker-2693: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:31:34,444 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:31:34,445 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:31:34,445 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:31:34,445 [Worker-2686: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:31:39,105 [Worker-2687: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:31:39,106 [Worker-2687: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:31:39,108 [Worker-2687: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:31:39,108 [Worker-2687: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
+2020-12-15 18:33:17,525 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:33:17,526 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2020-12-15 18:33:17,527 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-15 18:33:17,527 [Worker-2692: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\SimpleSpring\src\test\resources
