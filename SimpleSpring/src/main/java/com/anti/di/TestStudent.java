@@ -16,7 +16,6 @@ public class TestStudent {
 
 		GrammarCheat cheat = context.getBean("grammar", GrammarCheat.class);
 		Student student = context.getBean("student", Student.class);
-
 		AnotherStudent  anotherStudent = context.getBean("another", AnotherStudent.class);
 
 		

@@ -18,16 +18,14 @@ public class GrammarCheat {
 		this. cheattext = cheattxt;
 	}
 	public GrammarCheat(int score) {
+		System.out.println("GrammarCheat constructor called only once for three object !!!");
 		this.score = score;
 	}
 	protected void grammarCheat() {
 		System.out.println(toString());
 		System.out.println("Grammar cheat start..");
 	}
-	public GrammarCheat() {
-		
-		System.out.println("GrammarCheat constructor called");
-		}
+	
 	@Override
 	public String toString() {
 		return "GrammarCheat [score=" + score + ", cheattext=" +  cheattext + "]";
