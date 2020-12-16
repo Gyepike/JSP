@@ -3,15 +3,14 @@ package com.anti.di;
 public class Student {
 	
 	
-	int id;
-	GrammarCheat cheat ;
+	private int id;
+	private GrammarCheat cheat ;
 
 	public int getId() {
 		return id;
 	}
 
 	public void setId(int id) {
-		System.out.println("Set running");
 		this.id = id;
 	}
 

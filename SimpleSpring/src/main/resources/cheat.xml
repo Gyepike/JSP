@@ -5,16 +5,18 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
     
+   
     <bean id="grammar" class="com.anti.di.GrammarCheat"> 
        <constructor-arg name="score" value="10" type="int"></constructor-arg>
+       <property name="cheattxt" value="xmas"> </property>
     </bean>
             
     <bean id="student" class="com.anti.di.Student"> 
-      <property name="id" value="1001">  </property>
-       <property name="cheat" >  
-          <bean class="com.anti.di.GrammarCheat">  
-         	  <property name="score" value="11">  </property>
-           </bean>
- 		</property>
+      <property name="id" value="1001">  </property>     
+      <property name="cheat" ref="grammar"> </property> 
+    </bean>
+    
+    <bean id="another" class="com.anti.di.AnotherStudent">
+      <property name="anothercheat" ref="grammar"> </property>
     </bean>
 </beans>

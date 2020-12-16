@@ -1,16 +1,21 @@
 package com.anti.di;
 
 public class GrammarCheat {
-	@Override
-	public String toString() {
-		return "GrammarCheat [score=" + score + "]";
-	}
+	
 	int score;
+	String cheattext;
+	
 	public int getScore() {
 		return score;
 	}
 	public void setScore(int score) {
 		this.score = score;
+	}
+	public String getCheattxt() {
+		return  cheattext;
+	}
+	public void setCheattxt(String cheattxt) {
+		this. cheattext = cheattxt;
 	}
 	public GrammarCheat(int score) {
 		this.score = score;
@@ -20,5 +25,11 @@ public class GrammarCheat {
 		System.out.println("Grammar cheat start..");
 	}
 	public GrammarCheat() {
+		
+		System.out.println("GrammarCheat constructor called");
 		}
+	@Override
+	public String toString() {
+		return "GrammarCheat [score=" + score + ", cheattext=" +  cheattext + "]";
+	}
 }
