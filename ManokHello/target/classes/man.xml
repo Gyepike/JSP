@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+   
+    <context:annotation-config/>
+    <bean id="heart" class="com.anti.autowired.Heart">
+           <property name="number" value="11"></property>
+    </bean> 
+   
+    
+    <bean id="headObjectValue"  class="com.anti.autowired.Head"></bean> 
+   
+    
+    <bean id="human" class="com.anti.autowired.Human" > 
+    </bean>
+</beans>

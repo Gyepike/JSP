@@ -2,4 +2,7 @@
 <aop-reference-model>
 <aop-project name="ProductServices"/>
 <aop-project name="productservices-old"/>
+<aop-project name="SpringTest"/>
+<aop-project name="ManokHello"/>
+<aop-project name="SimpleSpring"/>
 </aop-reference-model>
