@@ -6,15 +6,20 @@
     http://www.springframework.org/schema/context
     http://www.springframework.org/schema/context/spring-context.xsd">
    
-    <context:annotation-config/>
-    <bean id="heart" class="com.anti.autowired.Heart">
-           <property name="number" value="11"></property>
+ 
+    <bean id="heart" class="com.anti.autowired.withxml.Heart">
+          <property name="number" value="1"></property>
     </bean> 
+    <bean id="head"  class="com.anti.autowired.withxml.Head"></bean> 
    
     
-    <bean id="headObjectValue"  class="com.anti.autowired.Head"></bean> 
-   
-    
-    <bean id="human" class="com.anti.autowired.Human" > 
+    <bean id="human" class="com.anti.autowired.withxml.Human" autowire="byType"> 
+    <!--   
+         <property name="heart" ref="heart"></property>    defult  = no = no autowired, byName name / id szerint
+          szerint human byType osztaly szerint  aurowire only for class type!!
+          nyname search heartObjectValue in human object 
+              <bean id="human" class="com.anti.autowired.Human" autowire="byType"> 
+            com.anti.autowired.Human szerint
+      -->
     </bean>
 </beans>

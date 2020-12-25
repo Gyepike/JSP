@@ -8,7 +8,7 @@ public class AirTelTest {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		ApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
+		ApplicationContext context = new ClassPathXmlApplicationContext("airtel.xml");
 		System.out.println("import done ");
 		
 		AirTel tel = context.getBean("air", AirTel.class);

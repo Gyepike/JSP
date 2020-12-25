@@ -1,19 +1,26 @@
 package com.anti.autowired;
 
 public class Heart {
-	private int  number;
+	private int  numberOfPitvar;
+	private String  animal;
 	
-	public int getNumber() {
-		return number;
+	public String getAnimal() {
+		return animal;
 	}
-
-	public void setNumber(int number) {
-		this.number = number;
+	public void setAnimal(String animal) {
+		this.animal = animal;
 	}
-
+	public int getNumberOfPitvar() {
+		return numberOfPitvar;
+	}
+	public void setNumberOfPitvar(int numberOfPitvar) {
+		this.numberOfPitvar = numberOfPitvar;
+	}
+	
+	
 	public void pump() {
 		
-		System.out.println("Pumping your heart " + getNumber());
+		System.out.println("Pumping your heart "+getAnimal() + " has number of pitvar " + getNumberOfPitvar());
 		System.out.println("Alive");
 	}
 

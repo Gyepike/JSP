@@ -6,14 +6,14 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class Humantest {
 
 	public static void main(String[] args) {
-      ApplicationContext context = new ClassPathXmlApplicationContext("man.xml");
+      ApplicationContext context = new ClassPathXmlApplicationContext("mananno.xml");
       System.out.println("context runnning");
       
-      Human humank = context.getBean("human", Human.class);
+      Human humans = context.getBean("human", Human.class);
       
-      humank.startPumping();
-      humank.head();
-      
+      humans.startPumping();
+      humans.head();
+      humans.leg();
 	}
 
 }

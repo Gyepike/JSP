@@ -1,4 +1,4 @@
-package com.anti.di;
+package com.anti.di.cheat;
 
 public interface Cheat {
 	

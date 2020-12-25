@@ -1,4 +1,4 @@
-package com.anti.di;
+package com.anti.di.cheat;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

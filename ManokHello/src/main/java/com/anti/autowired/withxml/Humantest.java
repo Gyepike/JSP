@@ -6,14 +6,14 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class Humantest {
 
 	public static void main(String[] args) {
-      ApplicationContext context = new ClassPathXmlApplicationContext("manxmlconfig.xml");
+      ApplicationContext context = new ClassPathXmlApplicationContext("man.xml");
       System.out.println("context runnning");
       
       Human humank = context.getBean("human", Human.class);
       
       humank.startPumping();
       humank.head();
-      
+      System.out.println("XML autowired !!");
 	}
 
 }
