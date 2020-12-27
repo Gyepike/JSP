@@ -1,6 +1,7 @@
 package com.anti.di.loadingfrompropertyanno;
 
 
+import org.springframework.beans.factory.annotation.Required;
 import org.springframework.beans.factory.annotation.Value;
 
 public class Student {
