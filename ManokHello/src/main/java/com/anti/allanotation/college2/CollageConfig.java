@@ -1,15 +1,15 @@
-package com.anti.allanotation.college;
+package com.anti.allanotation.college2;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
-@ComponentScan(basePackages = "com.anti.allanotation.college, s")  
+@ComponentScan(basePackages = "com.anti.allanotation.college2")  
 // basepackage nem kotellezeö !!! only we use @Component anotataion
 
 @Configuration
 public class CollageConfig {
-   
+   /*
 	@Bean
 	public StudentCouncil presidentBean() {
 		return new President();
@@ -37,4 +37,6 @@ public class CollageConfig {
 		
 		return highSchool;
 	}
+	*/
+	
 }

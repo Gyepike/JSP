@@ -1,4 +1,4 @@
-package com.anti.allanotation.college;
+package com.anti.allanotation.college2;
 // no xml config fiile !!!
 
 import org.springframework.stereotype.Component;

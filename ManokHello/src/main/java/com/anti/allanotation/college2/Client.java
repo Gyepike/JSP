@@ -1,4 +1,4 @@
-package com.anti.allanotation.college;
+package com.anti.allanotation.college2;
 
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
@@ -15,8 +15,9 @@ public class Client {
 	 college.collage();
 	 System.out.println("Collage created ");
      
+	
 	 
-	 HighSchool highschool = context.getBean("littleWitchSchool",  HighSchool.class);
+	 HighSchool highschool = context.getBean("highSchool",  HighSchool.class);
 	 System.out.println("High School created ");
 	 highschool.highSchooling();
 
