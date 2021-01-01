@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 public class Secretary implements StudentCouncil {
 
 	
-	@Value("Hana Midorikawa")
+	@Value("${Secretary.name}")
 	private String name;
 	
 	public String studentCouncilMember() {
