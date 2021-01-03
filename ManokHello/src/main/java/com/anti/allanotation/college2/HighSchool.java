@@ -12,10 +12,18 @@ public class HighSchool {
 	private President president;
 	private VicePresident vicepresident;
 	
-	@Autowired
-	@Qualifier("president")
+	
 	StudentCouncil council;
 	
+	
+
+	@Autowired
+	@Qualifier("president") //if i  used Primary in president class !! same  effect!!
+	public void setCouncil(StudentCouncil council) {
+		this.council = council;
+	}
+
+
 	@Autowired
 	public HighSchool(VicePresident vicepresident) {
 		this.vicepresident = vicepresident;
