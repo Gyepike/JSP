@@ -1,4 +1,4 @@
-package com.anti.JDBC;
+package com.anti.beanlifecycle.allannotation;
 
 
 import java.sql.Connection;
@@ -11,8 +11,6 @@ public class TestJDBC {
 		String url = "jdbc:mysql://localhost:3306/Alien?serverTimezone=UTC&useSSL=false";
 		String user = "hbstudent";
 		String password = "hbstudent"; 
-		String driver = "com.mysql.jdbc.Driver"; 
-	
 		try {
 			
 			System.out.println("Connect to db"+ url);
