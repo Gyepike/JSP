@@ -16800,3 +16800,139 @@ java.lang.NullPointerException: null
 2021-01-07 15:21:08,256 [Worker-4761: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-01-07 15:21:08,257 [Worker-4761: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-01-07 15:21:08,258 [Worker-4761: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:14:28,923 [Worker-4862: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:14:28,928 [Worker-4862: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:14:28,933 [Worker-4862: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:14:28,935 [Worker-4862: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:24:27,353 [Worker-4866: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:24:27,353 [Worker-4866: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:24:27,361 [Worker-4866: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:24:27,361 [Worker-4866: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:25:30,081 [Worker-4867: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:25:30,083 [Worker-4867: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:25:30,084 [Worker-4867: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:25:30,085 [Worker-4867: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:25:37,975 [Worker-4862: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:25:37,976 [Worker-4862: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:25:37,978 [Worker-4862: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:25:37,978 [Worker-4862: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:26:34,419 [Worker-4862: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:26:34,427 [Worker-4862: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:26:34,427 [Worker-4862: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:26:34,427 [Worker-4862: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:26:43,337 [Worker-4869: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:26:43,337 [Worker-4869: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:26:43,337 [Worker-4869: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:26:43,337 [Worker-4869: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:28:55,538 [Worker-4868: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:28:55,538 [Worker-4868: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:28:55,538 [Worker-4868: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:28:55,538 [Worker-4868: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:30:28,486 [Worker-4868: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:30:28,486 [Worker-4868: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:30:28,486 [Worker-4868: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:30:28,486 [Worker-4868: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:31:11,920 [Worker-4868: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:31:11,921 [Worker-4868: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:31:11,923 [Worker-4868: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:31:11,924 [Worker-4868: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:36:09,117 [Worker-4874: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:36:09,119 [Worker-4874: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:36:09,120 [Worker-4874: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:36:09,121 [Worker-4874: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:36:56,653 [Worker-4871: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:36:56,668 [Worker-4871: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:36:56,668 [Worker-4871: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:36:56,668 [Worker-4871: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:37:13,833 [Worker-4874: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:37:13,833 [Worker-4874: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:37:13,833 [Worker-4874: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:37:13,833 [Worker-4874: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:39:23,245 [Worker-4878: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:39:23,246 [Worker-4878: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:39:23,248 [Worker-4878: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:39:23,248 [Worker-4878: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:41:20,875 [Worker-4881: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:41:20,877 [Worker-4881: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:41:20,879 [Worker-4881: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:41:20,879 [Worker-4881: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:42:32,865 [Worker-4883: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:42:32,867 [Worker-4883: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:42:32,869 [Worker-4883: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:42:32,869 [Worker-4883: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:42:42,470 [Worker-4884: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:42:42,471 [Worker-4884: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:42:42,473 [Worker-4884: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:42:42,473 [Worker-4884: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:47:53,105 [Worker-4882: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:47:53,106 [Worker-4882: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:47:53,108 [Worker-4882: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:47:53,109 [Worker-4882: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:48:00,844 [Worker-4884: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:48:00,845 [Worker-4884: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:48:00,847 [Worker-4884: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:48:00,847 [Worker-4884: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:48:12,893 [Worker-4880: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:48:12,895 [Worker-4880: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:48:12,896 [Worker-4880: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:48:12,896 [Worker-4880: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:48:37,778 [Worker-4883: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:48:37,779 [Worker-4883: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:48:37,782 [Worker-4883: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:48:37,782 [Worker-4883: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:49:58,992 [Worker-4881: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:49:58,994 [Worker-4881: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:49:58,995 [Worker-4881: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:49:58,996 [Worker-4881: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:52:00,050 [Worker-4880: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:52:00,052 [Worker-4880: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:52:00,053 [Worker-4880: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:52:00,054 [Worker-4880: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:52:10,952 [Worker-4884: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:52:10,954 [Worker-4884: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:52:10,955 [Worker-4884: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:52:10,955 [Worker-4884: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:55:12,364 [Worker-4881: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:55:12,365 [Worker-4881: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:55:12,367 [Worker-4881: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:55:12,367 [Worker-4881: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:55:21,112 [Worker-4885: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:55:21,114 [Worker-4885: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:55:21,115 [Worker-4885: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:55:21,115 [Worker-4885: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:56:11,662 [Worker-4886: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:56:11,664 [Worker-4886: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:56:11,665 [Worker-4886: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:56:11,666 [Worker-4886: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:57:15,897 [Worker-4886: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:57:15,899 [Worker-4886: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:57:15,900 [Worker-4886: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:57:15,900 [Worker-4886: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 22:57:55,883 [Worker-4889: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:57:55,885 [Worker-4889: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 22:57:55,886 [Worker-4889: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 22:57:55,886 [Worker-4889: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 23:00:33,050 [Worker-4889: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:00:33,052 [Worker-4889: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 23:00:33,053 [Worker-4889: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:00:33,054 [Worker-4889: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 23:00:47,072 [Worker-4881: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:00:47,074 [Worker-4881: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 23:00:47,075 [Worker-4881: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:00:47,075 [Worker-4881: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 23:00:49,743 [Worker-4887: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:00:49,744 [Worker-4887: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 23:00:49,745 [Worker-4887: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:00:49,746 [Worker-4887: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 23:01:01,001 [Worker-4880: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:01:01,003 [Worker-4880: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 23:01:01,004 [Worker-4880: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:01:01,004 [Worker-4880: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 23:01:10,201 [Worker-4881: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:01:10,203 [Worker-4881: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 23:01:10,204 [Worker-4881: Launching Test] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:01:10,205 [Worker-4881: Launching Test] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources
+2021-01-07 23:01:22,020 [Worker-4890: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:01:22,021 [Worker-4890: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-01-07 23:01:22,023 [Worker-4890: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-07 23:01:22,023 [Worker-4890: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\ManokHello\src\test\resources

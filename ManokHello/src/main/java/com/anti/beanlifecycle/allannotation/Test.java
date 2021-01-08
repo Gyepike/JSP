@@ -8,9 +8,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class Test {
 
 	public static void main(String[] args) {
-      
-		//StudentDAO studentDAO = new StudentDAO();
-	   	
+         	
 		ConfigurableApplicationContext context = new ClassPathXmlApplicationContext("lifecycle.xml");
 		
 		StudentDAO studentDAO =  context.getBean("studentDAO", StudentDAO.class);
