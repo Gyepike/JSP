@@ -12,8 +12,8 @@ public class Test {
 		ConfigurableApplicationContext context = new ClassPathXmlApplicationContext("lifecycle.xml");
 		
 		StudentDAO studentDAO =  context.getBean("studentDAO", StudentDAO.class);
-		//studentDAO.deleteStudentRecord(2);
-		//studentDAO.deleteStudentRecordParam(2);
+		studentDAO.deleteStudentRecord(2);
+		studentDAO.deleteStudentRecordParam(2);
 		studentDAO.selectAll();
 		
 		
