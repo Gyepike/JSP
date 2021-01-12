@@ -4421,3 +4421,8 @@ jan. 12, 2021 22:10:43.82 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 jan. 12, 2021 22:10:43.82 Can't find symbol 'eglSetDamageRegionKHR'.
 jan. 12, 2021 22:17:00.91 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 jan. 12, 2021 22:17:00.91 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 12, 2021 22:20:42.31 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 12, 2021 22:20:42.31 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 12, 2021 22:20:45.42 
+jan. 12, 2021 22:20:45.42 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 12, 2021 22:20:45.42 

@@ -17685,3 +17685,14 @@ java.lang.NullPointerException: null
 2021-01-12 22:16:33,129 [Worker-6222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPfoodchart\src\main\resources
 2021-01-12 22:16:33,130 [Worker-6222: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-01-12 22:16:33,130 [Worker-6222: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPfoodchart\src\test\resources
+2021-01-12 22:20:02,430 [Worker-6218: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-12 22:20:02,430 [Worker-6218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPfoodchart\src\main\resources
+2021-01-12 22:20:02,430 [Worker-6218: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-12 22:20:02,430 [Worker-6218: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPfoodchart\src\test\resources
+2021-01-12 22:20:18,088 [Worker-6215: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-12 22:20:18,088 [Worker-6215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPfoodchart\src\main\resources
+2021-01-12 22:20:18,088 [Worker-6215: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-12 22:20:18,098 [Worker-6215: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPfoodchart\src\test\resources
+2021-01-12 22:21:05,646 [Worker-6210: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-12 22:21:05,646 [Worker-6210: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Gyepi\eclipse-workspace-2019-JSP\JSPfoodchart\src\main\resources
+2021-01-12 22:21:05,646 [Worker-6210: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1250 actually) to copy filtered resources, i.e. build is platform dependent!
