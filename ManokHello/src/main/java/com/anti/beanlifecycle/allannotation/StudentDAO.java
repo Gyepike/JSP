@@ -24,14 +24,17 @@ public class StudentDAO {
 	PreparedStatement state = null;
 
 	
-	@PostConstruct
-	private void ini() {
+	//@PostConstruct
+	private void init() {
 	   System.out.println("init executed ");
 	   connectionCreate();
 	   System.out.println("init done");
 	}
 	
-	
+	//@PreDestroy
+	private void destroy() {
+		closeConnection();
+	}
 	
 	public void connectionCreate() {
 		System.out.println("Post Constructor Done!");
@@ -66,9 +69,9 @@ public class StudentDAO {
 		}
 	}
 
-	@PreDestroy
+
 	public void closeConnection() {
-		System.out.println("DDD");
+		System.out.println("Close on SE / Desktop need call context.close web app it is cloae automatic!!");
 		try {
 			statment.close();
 			state.close();
@@ -82,21 +85,10 @@ public class StudentDAO {
 	
 	}
 
-	@PreDestroy
-	public void closeConnectionParam() {
-		System.out.println("DDD");
-		try {
-			statment.close();
-			state.close();
-			con.close();
-		} catch (SQLException e) {
-			e.printStackTrace();
-		}
-        finally {
-        	System.out.println("Param Connection close");
-        }
+	
+	
 		
-	}
+	
 
 	protected void selectAll() {
 		String SQL = "SELECT * FROM Alien.HostelStudentInfo";
