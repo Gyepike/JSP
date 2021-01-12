@@ -18,8 +18,9 @@ public class FoodCastDButil {
 	
 	Connection con;
 
-	private void getConnection() {
+	private  void getConnection() throws ClassNotFoundException {
 		try {
+			Class.forName("com.mysql.jdbc.Driver"); 
 			con = DriverManager.getConnection(url, user, password);
 		} catch (SQLException e) {
 			e.printStackTrace();
@@ -36,7 +37,7 @@ public class FoodCastDButil {
 		System.out.println("Connection done");
 	}
 
-	public List<Food> getFoodList() {
+	public  List<Food> getFoodList() throws ClassNotFoundException {
 
 		List<Food> foods = new ArrayList<>();
 		try {

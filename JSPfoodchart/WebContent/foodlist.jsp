@@ -35,5 +35,11 @@
          <br/>
     </c:forEach>
 	<br/>
+	
+	 <c:forEach items="${list}" var="food">
+         ${food}
+         <br/>
+    </c:forEach>
+	
 </body>
 </html>
