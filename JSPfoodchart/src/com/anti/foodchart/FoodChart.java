@@ -35,9 +35,10 @@ public class FoodChart extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		response.getWriter().append("Served at: ").append(request.getContextPath());
+		// busniess logic
 		String[] foodItems = { "Apple Pie", "Cola", "Hamburger", "Pizza" };
-		
-		// redirect to viwe jsp page !!
+	
+		// get data from modell
 		list(request);
 
 		String name = "Munyi&Munyo";
@@ -46,6 +47,8 @@ public class FoodChart extends HttpServlet {
 
 		request.setAttribute("foodItemsList", foodItems);
 		request.setAttribute("Name", name);
+		
+		// redirect to viwe jsp page !!
 		req.forward(request, response);
 	}
 }

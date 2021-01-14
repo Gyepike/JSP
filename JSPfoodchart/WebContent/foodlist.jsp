@@ -9,37 +9,54 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<p>Food List</p>
+	  <h4 align="center" > Food List</h4>
 
 	<%
-		String[] foodlist = (String[]) request.getAttribute("foodItemsList");
-
-	    String name = request.getAttribute("Name").toString();
+		//put UI code here 
+		/* 	String[] foodlist = (String[]) request.getAttribute("foodItemsList");
 		
-	    out.println(name);
-	    
-	    out.println("<br/>");
-	    for (String food : foodlist) {
-
-			out.println(food);
-			out.println("<br/>");
+		    String name = request.getAttribute("Name").toString();
 			
-		}
+		    out.println(name);
+		    
+		    out.println("<br/>");
+		    for (String food : foodlist) {
 		
+				out.println(food);
+				out.println("<br/>");
+				
+			} */
 	%>
-	<br/>
-    <c:out value="${Name}"/>  
-    <br/>
-    <c:forEach items="${foodItemsList}" var="food">
+    <table align="center" border="2" bordercolor="blue" >
+      <tr>
+    	<td>
+	 		<c:out value="${Name}" />
+		 </td>
+		</tr> 
+    </table> 
+     
+	<%--  <c:forEach items="${foodItemsList}" var="food">
          ${food}
+       
          <br/>
-    </c:forEach>
-	<br/>
+    </c:forEach> --%>
+	<br />
 	
-	 <c:forEach items="${list}" var="food">
-         ${food}
-         <br/>
-    </c:forEach>
-	
+	<h1 align="center" >Menu</h1>
+	<table border="1" cellpadding="25%" align="center" bordercolor="blue">
+    
+	<c:forEach items="${list}" var="food">
+	<tr>
+	   <th>Code</th> 
+	   <th>Item</th> 
+	   <th>Price</th> 
+	</tr>
+	<tr>
+         <td> ${food.id} </td>
+         <td> ${food.item} </td>
+         <td> ${food.price} </td>
+     </tr>     
+	</c:forEach>
+    </table>
 </body>
 </html>

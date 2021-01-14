@@ -50,13 +50,11 @@ public class FoodCastDButil {
 			ResultSet result = state.executeQuery(SQL);
 			
 			while (result.next()) {
-				
-				System.out.println(result.getString(1)+ " " + result.getString(2)+ " " +result.getString(3));
+				//System.out.println(result.getString(1)+ " " + result.getString(2)+ " " +result.getString(3));
 				Food food = new Food();
 				food.setId(result.getInt(1));
 				food.setItem(result.getString(2));
-				food.setPrice(result.getDouble(3));
-				
+				food.setPrice(result.getDouble(3));	
 				foods.add(food);
 			}
 			
@@ -66,7 +64,10 @@ public class FoodCastDButil {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		// close connection;
+		finally
+		{
+			closeConnection();
+		}
 		return foods;
 	}
 
