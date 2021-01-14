@@ -7,8 +7,7 @@
 	<title>Home</title>
 </head>
 <body>
-  Hello food Wars
-  <h1 align="center">Welcome to Food cart </h1>
-  <a href="./FoodChart">Klink Me</a>
+  <h1 align="center">   Welcome to Food cart</h1>
+  <a href="./FoodChart"> <p align="center"> Go to menu</p></a>
 </body>
 </html>
