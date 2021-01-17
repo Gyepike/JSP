@@ -16,7 +16,8 @@ public class StudentDataUtil {
 		// add Sample 
 		
 		students.add(new Student("Peti", "Munyi", "antipet@gmail.com"));
-		students.add(new Student("Anikó", "Munyo", "barkoanikot@gmail.com"));
+		students.add(new Student("Anikó", "Munyo", "barkoaniko@gmail.com"));
+		students.add(new Student("Tibi", "Mano", "menyorszag@gmail.com"));
 		
 		return students;
 	}

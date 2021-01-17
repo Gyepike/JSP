@@ -14,13 +14,20 @@
 	
 	
 	<h1 align="center" >Student</h1>
-	<table border="1" cellpadding="25%" align="center" bordercolor="blue">
-    
-	<c:forEach items="${students}" var="student">
-	<tr>
-	   <td>${student} </td>
-	</tr>
-	</c:forEach>
+	<table border="1" cellpadding="15%" align="center" bordercolor="blue">
+        <tr>
+            <th>First Name </th>  
+            <th>Last Name </th>
+            <th>Email Name </th> 
+        </tr>
+        
+		<c:forEach items="${students}" var="student">
+		<tr>
+		   <td>${student.firstName} </td>
+		   <td>${student.lastName} </td>
+		   <td>${student.email} </td>
+		</tr>
+		</c:forEach>
     </table>
 </body>
 </html>

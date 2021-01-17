@@ -25,7 +25,7 @@ public class StudentService extends HttpServlet {
 		List<Student> students =  StudentDataUtil.studentList();
 	    
 		// create session
-		RequestDispatcher dispatcher = request.getRequestDispatcher("students.jsp");
+		RequestDispatcher dispatcher = request.getRequestDispatcher("view_students.jsp");
 		
 	    HttpSession session =  request.getSession();
 		

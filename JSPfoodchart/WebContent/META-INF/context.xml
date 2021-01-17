@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <!-- Specify a JDBC datasource datasour = connection pool -->
+    <Resource name="jdbc/Food" 
+              auth="Container"
+              type="javax.sql.DataSource" 
+              username="hbstudent" 
+              password="hbstudent"
+              driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://localhost:3306/Food?serverTimezone=UTC"
+              maxActive="10" 
+              maxIdle="4"/>
+</Context>
