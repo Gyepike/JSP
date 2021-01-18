@@ -16,6 +16,7 @@
 	<h1 align="center" >Student</h1>
 	<table border="1" cellpadding="15%" align="center" bordercolor="blue">
         <tr>
+            <th>ID </th>
             <th>First Name </th>  
             <th>Last Name </th>
             <th>Email Name </th> 
@@ -23,6 +24,7 @@
         
 		<c:forEach items="${students}" var="student">
 		<tr>
+		    <td>${student.id} </td>
 		   <td>${student.firstName} </td>
 		   <td>${student.lastName} </td>
 		   <td>${student.email} </td>

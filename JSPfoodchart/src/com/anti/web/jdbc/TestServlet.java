@@ -69,11 +69,10 @@ public class TestServlet extends HttpServlet {
 				out.print("</td>");
 				
 				out.print("<td>");
-				out.println(result.getString(4));
+				out.println(result.getString("email"));
 				out.print("</td>");
 				
 				out.print("</tr>");
-				
 			}
 			
 			out.println("</table>");

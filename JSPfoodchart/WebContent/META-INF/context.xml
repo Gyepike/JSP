@@ -6,7 +6,7 @@
               type="javax.sql.DataSource" 
               username="hbstudent" 
               password="hbstudent"
-              driverClassName="com.mysql.jdbc.Driver"
+              driverClassName="com.mysql.cj.jdbc.Driver"
               url="jdbc:mysql://localhost:3306/Food?serverTimezone=UTC"
               maxActive="10" 
               maxIdle="4"/>
