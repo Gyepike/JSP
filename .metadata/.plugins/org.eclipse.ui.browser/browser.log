@@ -5015,3 +5015,61 @@ jan. 18, 2021 23:50:57.58 ###!!! [Child][RunMessage] Error: Channel closing: too
 jan. 18, 2021 23:50:57.58 
 jan. 18, 2021 23:52:11.36 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 jan. 18, 2021 23:52:11.36 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 13:37:15.85 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 13:37:15.85 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 13:38:11.68 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 13:38:11.68 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 14:20:45.25 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 14:20:45.25 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 14:20:49.89 
+jan. 19, 2021 14:20:49.90 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 19, 2021 14:20:49.90 
+jan. 19, 2021 14:23:02.09 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 14:23:02.09 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 14:23:25.98 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 14:23:25.99 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 14:24:13.46 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 14:24:13.46 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 14:24:18.22 
+jan. 19, 2021 14:24:18.22 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 19, 2021 14:24:18.22 
+jan. 19, 2021 14:28:46.36 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 14:28:46.36 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 20:48:55.35 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 20:48:55.35 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 20:49:02.48 
+jan. 19, 2021 20:49:02.48 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 19, 2021 20:49:02.48 
+jan. 19, 2021 21:06:01.41 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 21:06:01.41 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 21:06:09.57 
+jan. 19, 2021 21:06:09.57 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 19, 2021 21:06:09.57 
+jan. 19, 2021 21:06:36.29 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 21:06:36.29 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 22:05:06.47 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 22:05:06.47 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 22:05:47.71 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 22:05:47.71 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 22:11:01.61 
+jan. 19, 2021 22:11:01.61 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 19, 2021 22:11:01.61 
+jan. 19, 2021 22:11:11.60 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 22:11:11.60 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 22:18:50.68 
+jan. 19, 2021 22:18:50.68 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 19, 2021 22:18:50.68 
+jan. 19, 2021 22:19:00.46 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 22:19:00.46 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 22:19:04.30 
+jan. 19, 2021 22:19:04.30 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 19, 2021 22:19:04.30 
+jan. 19, 2021 22:28:21.67 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 22:28:21.67 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 22:29:42.71 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 22:29:42.71 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 22:30:12.49 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 22:30:12.49 Can't find symbol 'eglSetDamageRegionKHR'.
+jan. 19, 2021 22:31:16.23 [Parent 16712, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+jan. 19, 2021 23:13:18.45 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+jan. 19, 2021 23:13:18.45 Can't find symbol 'eglSetDamageRegionKHR'.

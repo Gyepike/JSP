@@ -1,0 +1,9 @@
+<center> <!-- this center tag move everthing   -->
+<hr size="3" noshade >  <!-- size line remove shaeing on line make it bold-->
+<h1>this is level 1 heading created by h1 </h1>
+<br/>
+by 
+<br/>  <!--new line -->
+<h2>Arthur Conan Doyle</h2>
+<hr size="3"  noshade>
+</center>
