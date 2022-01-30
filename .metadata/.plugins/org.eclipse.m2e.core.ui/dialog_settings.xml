@@ -29,6 +29,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.anti.SpringSelenium"/>
 			<item value="com.anti.SimpleSpring"/>
 			<item value="com.anti.simplespring.simplespring"/>
 			<item value="com"/>
@@ -39,6 +40,7 @@
 			<item value="com"/>
 		</list>
 		<list key="artifactId">
+			<item value="SpringSelenium"/>
 			<item value="SimpleSpring"/>
 			<item value="simplespring"/>
 		</list>

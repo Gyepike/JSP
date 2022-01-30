@@ -1,0 +1,28 @@
+h1{
+
+  color : blue;
+
+}
+
+img:hover {
+ background-color:  gold;
+}
+
+
+#szalona {
+
+  color:green;
+}
+
+.b {
+  color : blue;
+}
+
+.color {
+    background-color: red;
+}
+
+
+.circular {
+  border-radius: 25%;
+}

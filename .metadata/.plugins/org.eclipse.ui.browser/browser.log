@@ -5073,3 +5073,13 @@ jan. 19, 2021 22:30:12.49 Can't find symbol 'eglSetDamageRegionKHR'.
 jan. 19, 2021 22:31:16.23 [Parent 16712, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
 jan. 19, 2021 23:13:18.45 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 jan. 19, 2021 23:13:18.45 Can't find symbol 'eglSetDamageRegionKHR'.
+
+aug. 14, 2021 23:17:32.19 NEW SESSION
+aug. 14, 2021 23:17:32.19 
+aug. 14, 2021 23:17:32.19 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+aug. 14, 2021 23:17:32.19 
+
+jan. 26, 2022 16:36:03.17 NEW SESSION
+jan. 26, 2022 16:36:03.17 
+jan. 26, 2022 16:36:03.17 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+jan. 26, 2022 16:36:03.17 

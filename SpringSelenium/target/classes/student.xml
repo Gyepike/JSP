@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+   
+    <bean id="student" class="com.anti.dependecy.di.Student">
+      <constructor-arg name="studenYear" value="4"></constructor-arg>
+      <constructor-arg name="studentName" value="Anti"></constructor-arg >
+      <property name="studenID" value="18"></property>
+    </bean>
+    
+    <bean id="student2" class="com.anti.dependecy.di.Student">
+      <constructor-arg name="studenYear" value="5"></constructor-arg>
+      <constructor-arg  name="studentName" value="Munyi"></constructor-arg>
+      <property name="studenID" value="42"></property>
+    </bean>
+    
+    
+     <bean id="student3" class="com.anti.dependecy.di.Student">
+      <constructor-arg  name="studentName" value="Munyó"  type="String"></constructor-arg>
+      <property name="studenID" value="38" ></property>
+    </bean>
+    
+</beans> 

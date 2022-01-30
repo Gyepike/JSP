@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+   
+   <context:annotation-config/> <!-- use autowied torn on-->
+   
+    <bean id="human" class="com.anti.dependecy.di.autowiring.Human"  >
+<!--          <property name="heart" ref="heartObject"></property>   byname use "heart" from heart to link  autowire="byName"-->
+    </bean>
+    
+     <bean name="humanHeart" class="com.anti.dependecy.di.autowiring.Heart" >
+           <property name="nameofAnimal" value="Human"></property>
+           <property name="numberHeart" value="1"></property>
+     </bean>  <!-- byname link that heart to Heart class, bytype use type com.anti.dependecy.di.autowiring.Heart to Heart -->
+     <bean name="octopusHeart" class="com.anti.dependecy.di.autowiring.Heart" >
+            <property name="nameofAnimal" value="octopus"></property>
+           <property name="numberHeart" value="3"></property>
+     </bean>
+</beans> 
